@@ -1,0 +1,702 @@
+[
+    {
+        "NVDA_1. open": "121.7650",
+        "NVDA_2. high": "122.4351",
+        "NVDA_3. low": "115.7900",
+        "NVDA_4. close": "117.0000",
+        "NVDA_5. volume": "302094485"
+    },
+    {
+        "NVDA_1. open": "118.3100",
+        "NVDA_2. high": "121.5000",
+        "NVDA_3. low": "118.1500",
+        "NVDA_4. close": "121.4400",
+        "NVDA_5. volume": "227053651"
+    },
+    {
+        "NVDA_1. open": "123.9700",
+        "NVDA_2. high": "124.0300",
+        "NVDA_3. low": "119.2600",
+        "NVDA_4. close": "121.4000",
+        "NVDA_5. volume": "271009175"
+    },
+    {
+        "NVDA_1. open": "126.8000",
+        "NVDA_2. high": "127.6650",
+        "NVDA_3. low": "121.8000",
+        "NVDA_4. close": "124.0400",
+        "NVDA_5. volume": "302582868"
+    },
+    {
+        "NVDA_1. open": "122.0200",
+        "NVDA_2. high": "124.9400",
+        "NVDA_3. low": "121.6100",
+        "NVDA_4. close": "123.5100",
+        "NVDA_5. volume": "284692948"
+    },
+    {
+        "NVDA_1. open": "116.5150",
+        "NVDA_2. high": "121.8000",
+        "NVDA_3. low": "115.3800",
+        "NVDA_4. close": "120.8700",
+        "NVDA_5. volume": "354966772"
+    },
+    {
+        "NVDA_1. open": "116.5500",
+        "NVDA_2. high": "116.9900",
+        "NVDA_3. low": "114.8600",
+        "NVDA_4. close": "116.2600",
+        "NVDA_5. volume": "206228490"
+    },
+    {
+        "NVDA_1. open": "117.0600",
+        "NVDA_2. high": "118.6181",
+        "NVDA_3. low": "115.3901",
+        "NVDA_4. close": "116.0000",
+        "NVDA_5. volume": "382462428"
+    },
+    {
+        "NVDA_1. open": "117.3500",
+        "NVDA_2. high": "119.6600",
+        "NVDA_3. low": "117.2500",
+        "NVDA_4. close": "117.8700",
+        "NVDA_5. volume": "293506438"
+    },
+    {
+        "NVDA_1. open": "115.8900",
+        "NVDA_2. high": "117.7000",
+        "NVDA_3. low": "113.2200",
+        "NVDA_4. close": "113.3700",
+        "NVDA_5. volume": "310318937"
+    },
+    {
+        "NVDA_1. open": "118.1700",
+        "NVDA_2. high": "118.8000",
+        "NVDA_3. low": "114.8300",
+        "NVDA_4. close": "115.5900",
+        "NVDA_5. volume": "231925876"
+    },
+    {
+        "NVDA_1. open": "116.7900",
+        "NVDA_2. high": "118.1800",
+        "NVDA_3. low": "114.3600",
+        "NVDA_4. close": "116.7800",
+        "NVDA_5. volume": "248772308"
+    },
+    {
+        "NVDA_1. open": "119.0800",
+        "NVDA_2. high": "119.9550",
+        "NVDA_3. low": "117.6000",
+        "NVDA_4. close": "119.1000",
+        "NVDA_5. volume": "238358328"
+    },
+    {
+        "NVDA_1. open": "116.8400",
+        "NVDA_2. high": "120.7900",
+        "NVDA_3. low": "115.3800",
+        "NVDA_4. close": "119.1400",
+        "NVDA_5. volume": "367100496"
+    },
+    {
+        "NVDA_1. open": "109.3900",
+        "NVDA_2. high": "117.1900",
+        "NVDA_3. low": "107.4200",
+        "NVDA_4. close": "116.9100",
+        "NVDA_5. volume": "441422370"
+    },
+    {
+        "NVDA_1. open": "107.8100",
+        "NVDA_2. high": "109.4000",
+        "NVDA_3. low": "104.9500",
+        "NVDA_4. close": "108.1000",
+        "NVDA_5. volume": "268283736"
+    },
+    {
+        "NVDA_1. open": "104.8800",
+        "NVDA_2. high": "106.5500",
+        "NVDA_3. low": "103.6900",
+        "NVDA_4. close": "106.4700",
+        "NVDA_5. volume": "273912015"
+    },
+    {
+        "NVDA_1. open": "108.0400",
+        "NVDA_2. high": "108.1500",
+        "NVDA_3. low": "100.9500",
+        "NVDA_4. close": "102.8300",
+        "NVDA_5. volume": "413638098"
+    },
+    {
+        "NVDA_1. open": "104.9850",
+        "NVDA_2. high": "109.6500",
+        "NVDA_3. low": "104.7600",
+        "NVDA_4. close": "107.2100",
+        "NVDA_5. volume": "306850696"
+    },
+    {
+        "NVDA_1. open": "105.4100",
+        "NVDA_2. high": "113.2700",
+        "NVDA_3. low": "104.1200",
+        "NVDA_4. close": "106.2100",
+        "NVDA_5. volume": "368378810"
+    },
+    {
+        "NVDA_1. open": "116.0100",
+        "NVDA_2. high": "116.2100",
+        "NVDA_3. low": "107.2900",
+        "NVDA_4. close": "108.0000",
+        "NVDA_5. volume": "477155100"
+    },
+    {
+        "NVDA_1. open": "119.5300",
+        "NVDA_2. high": "121.7500",
+        "NVDA_3. low": "117.2200",
+        "NVDA_4. close": "119.3700",
+        "NVDA_5. volume": "333751583"
+    },
+    {
+        "NVDA_1. open": "121.3550",
+        "NVDA_2. high": "124.4300",
+        "NVDA_3. low": "116.7100",
+        "NVDA_4. close": "117.5900",
+        "NVDA_5. volume": "453023305"
+    },
+    {
+        "NVDA_1. open": "128.1200",
+        "NVDA_2. high": "128.3300",
+        "NVDA_3. low": "122.6400",
+        "NVDA_4. close": "125.6100",
+        "NVDA_5. volume": "448101115"
+    },
+    {
+        "NVDA_1. open": "125.0500",
+        "NVDA_2. high": "129.2000",
+        "NVDA_3. low": "123.8800",
+        "NVDA_4. close": "128.3000",
+        "NVDA_5. volume": "303134573"
+    },
+    {
+        "NVDA_1. open": "129.5700",
+        "NVDA_2. high": "131.2600",
+        "NVDA_3. low": "124.3700",
+        "NVDA_4. close": "126.4600",
+        "NVDA_5. volume": "331964672"
+    },
+    {
+        "NVDA_1. open": "125.8600",
+        "NVDA_2. high": "129.6000",
+        "NVDA_3. low": "125.2200",
+        "NVDA_4. close": "129.3700",
+        "NVDA_5. volume": "323230332"
+    },
+    {
+        "NVDA_1. open": "130.0200",
+        "NVDA_2. high": "130.7500",
+        "NVDA_3. low": "123.1000",
+        "NVDA_4. close": "123.7400",
+        "NVDA_5. volume": "376189076"
+    },
+    {
+        "NVDA_1. open": "127.3150",
+        "NVDA_2. high": "129.3500",
+        "NVDA_3. low": "126.6600",
+        "NVDA_4. close": "128.5000",
+        "NVDA_5. volume": "257883572"
+    },
+    {
+        "NVDA_1. open": "128.4000",
+        "NVDA_2. high": "129.8800",
+        "NVDA_3. low": "125.8900",
+        "NVDA_4. close": "127.2500",
+        "NVDA_5. volume": "300087415"
+    },
+    {
+        "NVDA_1. open": "124.2800",
+        "NVDA_2. high": "130.0000",
+        "NVDA_3. low": "123.4200",
+        "NVDA_4. close": "130.0000",
+        "NVDA_5. volume": "318333577"
+    },
+    {
+        "NVDA_1. open": "121.9400",
+        "NVDA_2. high": "125.0000",
+        "NVDA_3. low": "121.1800",
+        "NVDA_4. close": "124.5800",
+        "NVDA_5. volume": "302589872"
+    },
+    {
+        "NVDA_1. open": "118.7600",
+        "NVDA_2. high": "123.2400",
+        "NVDA_3. low": "117.4700",
+        "NVDA_4. close": "122.8600",
+        "NVDA_5. volume": "318086673"
+    },
+    {
+        "NVDA_1. open": "118.5300",
+        "NVDA_2. high": "118.6000",
+        "NVDA_3. low": "114.0700",
+        "NVDA_4. close": "118.0800",
+        "NVDA_5. volume": "339246407"
+    },
+    {
+        "NVDA_1. open": "112.4400",
+        "NVDA_2. high": "116.2300",
+        "NVDA_3. low": "111.5800",
+        "NVDA_4. close": "116.1400",
+        "NVDA_5. volume": "312646660"
+    },
+    {
+        "NVDA_1. open": "106.3200",
+        "NVDA_2. high": "111.0700",
+        "NVDA_3. low": "106.2600",
+        "NVDA_4. close": "109.0200",
+        "NVDA_5. volume": "325559870"
+    },
+    {
+        "NVDA_1. open": "105.6400",
+        "NVDA_2. high": "106.6000",
+        "NVDA_3. low": "103.4300",
+        "NVDA_4. close": "104.7500",
+        "NVDA_5. volume": "290844157"
+    },
+    {
+        "NVDA_1. open": "102.0000",
+        "NVDA_2. high": "105.5000",
+        "NVDA_3. low": "97.5200",
+        "NVDA_4. close": "104.9700",
+        "NVDA_5. volume": "391910023"
+    },
+    {
+        "NVDA_1. open": "107.8100",
+        "NVDA_2. high": "108.8000",
+        "NVDA_3. low": "98.6900",
+        "NVDA_4. close": "98.9100",
+        "NVDA_5. volume": "411440423"
+    },
+    {
+        "NVDA_1. open": "103.8400",
+        "NVDA_2. high": "107.7100",
+        "NVDA_3. low": "100.5500",
+        "NVDA_4. close": "104.2500",
+        "NVDA_5. volume": "409012089"
+    },
+    {
+        "NVDA_1. open": "92.0600",
+        "NVDA_2. high": "103.4100",
+        "NVDA_3. low": "90.6900",
+        "NVDA_4. close": "100.4500",
+        "NVDA_5. volume": "552842375"
+    },
+    {
+        "NVDA_1. open": "103.7600",
+        "NVDA_2. high": "108.7200",
+        "NVDA_3. low": "101.3700",
+        "NVDA_4. close": "107.2700",
+        "NVDA_5. volume": "482027464"
+    },
+    {
+        "NVDA_1. open": "117.5300",
+        "NVDA_2. high": "120.1600",
+        "NVDA_3. low": "106.8104",
+        "NVDA_4. close": "109.2100",
+        "NVDA_5. volume": "523462326"
+    },
+    {
+        "NVDA_1. open": "112.9000",
+        "NVDA_2. high": "118.3400",
+        "NVDA_3. low": "110.8800",
+        "NVDA_4. close": "117.0200",
+        "NVDA_5. volume": "473174182"
+    },
+    {
+        "NVDA_1. open": "111.5200",
+        "NVDA_2. high": "111.9900",
+        "NVDA_3. low": "102.5400",
+        "NVDA_4. close": "103.7300",
+        "NVDA_5. volume": "486833274"
+    },
+    {
+        "NVDA_1. open": "113.6900",
+        "NVDA_2. high": "116.2800",
+        "NVDA_3. low": "111.3000",
+        "NVDA_4. close": "111.5900",
+        "NVDA_5. volume": "248152068"
+    },
+    {
+        "NVDA_1. open": "116.1900",
+        "NVDA_2. high": "116.2000",
+        "NVDA_3. low": "111.5800",
+        "NVDA_4. close": "113.0600",
+        "NVDA_5. volume": "293399073"
+    },
+    {
+        "NVDA_1. open": "113.0400",
+        "NVDA_2. high": "116.6300",
+        "NVDA_3. low": "106.3000",
+        "NVDA_4. close": "112.2800",
+        "NVDA_5. volume": "460067019"
+    },
+    {
+        "NVDA_1. open": "119.1700",
+        "NVDA_2. high": "119.9500",
+        "NVDA_3. low": "113.4400",
+        "NVDA_4. close": "114.2500",
+        "NVDA_5. volume": "327776884"
+    },
+    {
+        "NVDA_1. open": "122.7800",
+        "NVDA_2. high": "124.6900",
+        "NVDA_3. low": "122.1000",
+        "NVDA_4. close": "122.5900",
+        "NVDA_5. volume": "173910983"
+    },
+    {
+        "NVDA_1. open": "120.3500",
+        "NVDA_2. high": "124.0700",
+        "NVDA_3. low": "119.8600",
+        "NVDA_4. close": "123.5400",
+        "NVDA_5. volume": "258068943"
+    },
+    {
+        "NVDA_1. open": "120.3500",
+        "NVDA_2. high": "121.6000",
+        "NVDA_3. low": "117.3700",
+        "NVDA_4. close": "117.9300",
+        "NVDA_5. volume": "217223800"
+    },
+    {
+        "NVDA_1. open": "121.8500",
+        "NVDA_2. high": "122.4000",
+        "NVDA_3. low": "116.5600",
+        "NVDA_4. close": "121.0900",
+        "NVDA_5. volume": "320979530"
+    },
+    {
+        "NVDA_1. open": "121.3500",
+        "NVDA_2. high": "121.8500",
+        "NVDA_3. low": "116.7200",
+        "NVDA_4. close": "117.9900",
+        "NVDA_5. volume": "390086189"
+    },
+    {
+        "NVDA_1. open": "128.4400",
+        "NVDA_2. high": "129.0400",
+        "NVDA_3. low": "124.5800",
+        "NVDA_4. close": "126.3600",
+        "NVDA_5. volume": "214769515"
+    },
+    {
+        "NVDA_1. open": "130.5600",
+        "NVDA_2. high": "131.3900",
+        "NVDA_3. low": "127.1800",
+        "NVDA_4. close": "128.4400",
+        "NVDA_5. volume": "208326164"
+    },
+    {
+        "NVDA_1. open": "128.2600",
+        "NVDA_2. high": "131.9200",
+        "NVDA_3. low": "127.2200",
+        "NVDA_4. close": "129.2400",
+        "NVDA_5. volume": "252680535"
+    },
+    {
+        "NVDA_1. open": "135.7500",
+        "NVDA_2. high": "136.1500",
+        "NVDA_3. low": "127.0500",
+        "NVDA_4. close": "127.4000",
+        "NVDA_5. volume": "374782738"
+    },
+    {
+        "NVDA_1. open": "134.0300",
+        "NVDA_2. high": "135.1000",
+        "NVDA_3. low": "132.4200",
+        "NVDA_4. close": "134.9100",
+        "NVDA_5. volume": "248978569"
+    },
+    {
+        "NVDA_1. open": "130.3500",
+        "NVDA_2. high": "133.8200",
+        "NVDA_3. low": "128.6500",
+        "NVDA_4. close": "131.3800",
+        "NVDA_5. volume": "287020820"
+    },
+    {
+        "NVDA_1. open": "127.4900",
+        "NVDA_2. high": "130.7700",
+        "NVDA_3. low": "127.0400",
+        "NVDA_4. close": "128.2000",
+        "NVDA_5. volume": "237677322"
+    },
+    {
+        "NVDA_1. open": "127.3800",
+        "NVDA_2. high": "128.8500",
+        "NVDA_3. low": "125.6800",
+        "NVDA_4. close": "125.8300",
+        "NVDA_5. volume": "214176689"
+    },
+    {
+        "NVDA_1. open": "121.6600",
+        "NVDA_2. high": "128.2800",
+        "NVDA_3. low": "121.3600",
+        "NVDA_4. close": "128.2800",
+        "NVDA_5. volume": "215748955"
+    },
+    {
+        "NVDA_1. open": "121.1300",
+        "NVDA_2. high": "123.4100",
+        "NVDA_3. low": "121.0300",
+        "NVDA_4. close": "122.6700",
+        "NVDA_5. volume": "218373969"
+    },
+    {
+        "NVDA_1. open": "123.4700",
+        "NVDA_2. high": "124.8400",
+        "NVDA_3. low": "118.8300",
+        "NVDA_4. close": "124.3000",
+        "NVDA_5. volume": "284885534"
+    },
+    {
+        "NVDA_1. open": "124.5800",
+        "NVDA_2. high": "127.7100",
+        "NVDA_3. low": "122.7500",
+        "NVDA_4. close": "123.5400",
+        "NVDA_5. volume": "315516740"
+    },
+    {
+        "NVDA_1. open": "124.1000",
+        "NVDA_2. high": "126.4100",
+        "NVDA_3. low": "122.9200",
+        "NVDA_4. close": "123.9900",
+        "NVDA_5. volume": "252571693"
+    },
+    {
+        "NVDA_1. open": "126.1300",
+        "NVDA_2. high": "128.1200",
+        "NVDA_3. low": "122.6000",
+        "NVDA_4. close": "126.4000",
+        "NVDA_5. volume": "362975918"
+    },
+    {
+        "NVDA_1. open": "121.2000",
+        "NVDA_2. high": "126.5000",
+        "NVDA_3. low": "119.3200",
+        "NVDA_4. close": "126.0900",
+        "NVDA_5. volume": "425787456"
+    },
+    {
+        "NVDA_1. open": "123.2400",
+        "NVDA_2. high": "124.4600",
+        "NVDA_3. low": "118.0400",
+        "NVDA_4. close": "118.1100",
+        "NVDA_5. volume": "476060866"
+    },
+    {
+        "NVDA_1. open": "127.1200",
+        "NVDA_2. high": "130.6300",
+        "NVDA_3. low": "124.3000",
+        "NVDA_4. close": "126.5700",
+        "NVDA_5. volume": "655484664"
+    },
+    {
+        "NVDA_1. open": "139.8000",
+        "NVDA_2. high": "140.7600",
+        "NVDA_3. low": "129.5200",
+        "NVDA_4. close": "130.7800",
+        "NVDA_5. volume": "517768425"
+    },
+    {
+        "NVDA_1. open": "131.1400",
+        "NVDA_2. high": "136.3300",
+        "NVDA_3. low": "130.6900",
+        "NVDA_4. close": "135.5800",
+        "NVDA_5. volume": "294335054"
+    },
+    {
+        "NVDA_1. open": "132.9900",
+        "NVDA_2. high": "133.7300",
+        "NVDA_3. low": "129.5800",
+        "NVDA_4. close": "130.9800",
+        "NVDA_5. volume": "288504444"
+    },
+    {
+        "NVDA_1. open": "129.9600",
+        "NVDA_2. high": "132.8400",
+        "NVDA_3. low": "128.3200",
+        "NVDA_4. close": "131.8800",
+        "NVDA_5. volume": "309320376"
+    },
+    {
+        "NVDA_1. open": "129.3900",
+        "NVDA_2. high": "129.8000",
+        "NVDA_3. low": "127.1600",
+        "NVDA_4. close": "129.6100",
+        "NVDA_5. volume": "260704537"
+    },
+    {
+        "NVDA_1. open": "123.0600",
+        "NVDA_2. high": "126.8800",
+        "NVDA_3. low": "122.5700",
+        "NVDA_4. close": "125.2000",
+        "NVDA_5. volume": "299595001"
+    },
+    {
+        "NVDA_1. open": "121.7700",
+        "NVDA_2. high": "122.8700",
+        "NVDA_3. low": "118.7400",
+        "NVDA_4. close": "120.9100",
+        "NVDA_5. volume": "222551158"
+    },
+    {
+        "NVDA_1. open": "120.3700",
+        "NVDA_2. high": "123.1000",
+        "NVDA_3. low": "117.0100",
+        "NVDA_4. close": "121.7900",
+        "NVDA_5. volume": "308134791"
+    },
+    {
+        "NVDA_1. open": "1197.7000",
+        "NVDA_2. high": "1216.9171",
+        "NVDA_3. low": "1180.2200",
+        "NVDA_4. close": "1208.8800",
+        "NVDA_5. volume": "41238580"
+    },
+    {
+        "NVDA_1. open": "1240.4800",
+        "NVDA_2. high": "1255.8700",
+        "NVDA_3. low": "1183.2000",
+        "NVDA_4. close": "1209.9800",
+        "NVDA_5. volume": "66469619"
+    },
+    {
+        "NVDA_1. open": "1183.7100",
+        "NVDA_2. high": "1224.4950",
+        "NVDA_3. low": "1174.6800",
+        "NVDA_4. close": "1224.4000",
+        "NVDA_5. volume": "52840178"
+    },
+    {
+        "NVDA_1. open": "1157.1600",
+        "NVDA_2. high": "1166.0000",
+        "NVDA_3. low": "1140.4500",
+        "NVDA_4. close": "1164.3700",
+        "NVDA_5. volume": "40332401"
+    },
+    {
+        "NVDA_1. open": "1136.2100",
+        "NVDA_2. high": "1150.0000",
+        "NVDA_3. low": "1120.0300",
+        "NVDA_4. close": "1150.0000",
+        "NVDA_5. volume": "43839176"
+    },
+    {
+        "NVDA_1. open": "1125.2000",
+        "NVDA_2. high": "1127.1700",
+        "NVDA_3. low": "1069.4000",
+        "NVDA_4. close": "1096.3300",
+        "NVDA_5. volume": "61326250"
+    },
+    {
+        "NVDA_1. open": "1146.5000",
+        "NVDA_2. high": "1158.1915",
+        "NVDA_3. low": "1096.6300",
+        "NVDA_4. close": "1105.0000",
+        "NVDA_5. volume": "48735033"
+    },
+    {
+        "NVDA_1. open": "1130.5000",
+        "NVDA_2. high": "1154.9200",
+        "NVDA_3. low": "1109.0100",
+        "NVDA_4. close": "1148.2500",
+        "NVDA_5. volume": "55744193"
+    },
+    {
+        "NVDA_1. open": "1102.4400",
+        "NVDA_2. high": "1149.3900",
+        "NVDA_3. low": "1098.8300",
+        "NVDA_4. close": "1139.0100",
+        "NVDA_5. volume": "65272789"
+    },
+    {
+        "NVDA_1. open": "1044.4900",
+        "NVDA_2. high": "1064.7500",
+        "NVDA_3. low": "1030.0000",
+        "NVDA_4. close": "1064.6900",
+        "NVDA_5. volume": "42949367"
+    },
+    {
+        "NVDA_1. open": "1020.2800",
+        "NVDA_2. high": "1063.2000",
+        "NVDA_3. low": "1015.2000",
+        "NVDA_4. close": "1037.9900",
+        "NVDA_5. volume": "83506528"
+    },
+    {
+        "NVDA_1. open": "954.5900",
+        "NVDA_2. high": "960.2000",
+        "NVDA_3. low": "932.4900",
+        "NVDA_4. close": "949.5000",
+        "NVDA_5. volume": "54864799"
+    },
+    {
+        "NVDA_1. open": "935.9900",
+        "NVDA_2. high": "954.0000",
+        "NVDA_3. low": "931.8000",
+        "NVDA_4. close": "953.8600",
+        "NVDA_5. volume": "32894646"
+    },
+    {
+        "NVDA_1. open": "937.5000",
+        "NVDA_2. high": "952.0000",
+        "NVDA_3. low": "934.4000",
+        "NVDA_4. close": "947.8000",
+        "NVDA_5. volume": "31876446"
+    },
+    {
+        "NVDA_1. open": "943.6900",
+        "NVDA_2. high": "947.4000",
+        "NVDA_3. low": "918.0600",
+        "NVDA_4. close": "924.7900",
+        "NVDA_5. volume": "35969103"
+    },
+    {
+        "NVDA_1. open": "949.1000",
+        "NVDA_2. high": "958.1899",
+        "NVDA_3. low": "941.0300",
+        "NVDA_4. close": "943.5900",
+        "NVDA_5. volume": "32395182"
+    },
+    {
+        "NVDA_1. open": "924.7200",
+        "NVDA_2. high": "948.6200",
+        "NVDA_3. low": "915.9900",
+        "NVDA_4. close": "946.3000",
+        "NVDA_5. volume": "41773545"
+    },
+    {
+        "NVDA_1. open": "895.9900",
+        "NVDA_2. high": "916.5100",
+        "NVDA_3. low": "889.3400",
+        "NVDA_4. close": "913.5600",
+        "NVDA_5. volume": "29650708"
+    },
+    {
+        "NVDA_1. open": "904.7800",
+        "NVDA_2. high": "909.9800",
+        "NVDA_3. low": "885.2900",
+        "NVDA_4. close": "903.9900",
+        "NVDA_5. volume": "28968017"
+    },
+    {
+        "NVDA_1. open": "903.0450",
+        "NVDA_2. high": "914.0100",
+        "NVDA_3. low": "892.2700",
+        "NVDA_4. close": "898.7800",
+        "NVDA_5. volume": "33532541"
+    },
+    {
+        "NVDA_1. open": "905.2900",
+        "NVDA_2. high": "910.7200",
+        "NVDA_3. low": "882.3100",
+        "NVDA_4. close": "887.4700",
+        "NVDA_5. volume": "37801268"
+    }
+]

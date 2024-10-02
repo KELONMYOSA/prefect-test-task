@@ -1,0 +1,702 @@
+[
+    {
+        "MSFT_1. open": "428.4500",
+        "MSFT_2. high": "428.4800",
+        "MSFT_3. low": "418.8100",
+        "MSFT_4. close": "420.6900",
+        "MSFT_5. volume": "19092945"
+    },
+    {
+        "MSFT_1. open": "428.2100",
+        "MSFT_2. high": "430.4200",
+        "MSFT_3. low": "425.3700",
+        "MSFT_4. close": "430.3000",
+        "MSFT_5. volume": "16854606"
+    },
+    {
+        "MSFT_1. open": "431.5200",
+        "MSFT_2. high": "431.8500",
+        "MSFT_3. low": "427.4700",
+        "MSFT_4. close": "428.0200",
+        "MSFT_5. volume": "14896131"
+    },
+    {
+        "MSFT_1. open": "435.0850",
+        "MSFT_2. high": "435.3000",
+        "MSFT_3. low": "429.1300",
+        "MSFT_4. close": "431.3100",
+        "MSFT_5. volume": "14492044"
+    },
+    {
+        "MSFT_1. open": "429.8300",
+        "MSFT_2. high": "433.1190",
+        "MSFT_3. low": "428.5700",
+        "MSFT_4. close": "432.1100",
+        "MSFT_5. volume": "13396364"
+    },
+    {
+        "MSFT_1. open": "433.0000",
+        "MSFT_2. high": "433.3500",
+        "MSFT_3. low": "426.1000",
+        "MSFT_4. close": "429.1700",
+        "MSFT_5. volume": "17015754"
+    },
+    {
+        "MSFT_1. open": "434.2800",
+        "MSFT_2. high": "436.4600",
+        "MSFT_3. low": "430.3889",
+        "MSFT_4. close": "433.5100",
+        "MSFT_5. volume": "15128891"
+    },
+    {
+        "MSFT_1. open": "437.2200",
+        "MSFT_2. high": "439.2400",
+        "MSFT_3. low": "434.2200",
+        "MSFT_4. close": "435.2700",
+        "MSFT_5. volume": "55167106"
+    },
+    {
+        "MSFT_1. open": "441.2250",
+        "MSFT_2. high": "441.5000",
+        "MSFT_3. low": "436.9000",
+        "MSFT_4. close": "438.6900",
+        "MSFT_5. volume": "21706559"
+    },
+    {
+        "MSFT_1. open": "435.0000",
+        "MSFT_2. high": "436.0300",
+        "MSFT_3. low": "430.4100",
+        "MSFT_4. close": "430.8100",
+        "MSFT_5. volume": "18898042"
+    },
+    {
+        "MSFT_1. open": "440.2300",
+        "MSFT_2. high": "441.8500",
+        "MSFT_3. low": "432.2700",
+        "MSFT_4. close": "435.1500",
+        "MSFT_5. volume": "18874231"
+    },
+    {
+        "MSFT_1. open": "430.6000",
+        "MSFT_2. high": "433.5300",
+        "MSFT_3. low": "428.2200",
+        "MSFT_4. close": "431.3400",
+        "MSFT_5. volume": "13834697"
+    },
+    {
+        "MSFT_1. open": "425.8250",
+        "MSFT_2. high": "431.8300",
+        "MSFT_3. low": "425.4600",
+        "MSFT_4. close": "430.5900",
+        "MSFT_5. volume": "15874555"
+    },
+    {
+        "MSFT_1. open": "423.3100",
+        "MSFT_2. high": "427.3692",
+        "MSFT_3. low": "419.7500",
+        "MSFT_4. close": "427.0000",
+        "MSFT_5. volume": "17418759"
+    },
+    {
+        "MSFT_1. open": "415.5000",
+        "MSFT_2. high": "423.9900",
+        "MSFT_3. low": "409.5800",
+        "MSFT_4. close": "423.0400",
+        "MSFT_5. volume": "19266923"
+    },
+    {
+        "MSFT_1. open": "408.2000",
+        "MSFT_2. high": "416.3300",
+        "MSFT_3. low": "407.7000",
+        "MSFT_4. close": "414.2000",
+        "MSFT_5. volume": "19594287"
+    },
+    {
+        "MSFT_1. open": "407.2400",
+        "MSFT_2. high": "408.6500",
+        "MSFT_3. low": "402.1500",
+        "MSFT_4. close": "405.7200",
+        "MSFT_5. volume": "15295134"
+    },
+    {
+        "MSFT_1. open": "409.0600",
+        "MSFT_2. high": "410.6500",
+        "MSFT_3. low": "400.8000",
+        "MSFT_4. close": "401.7000",
+        "MSFT_5. volume": "19609526"
+    },
+    {
+        "MSFT_1. open": "407.6200",
+        "MSFT_2. high": "413.1000",
+        "MSFT_3. low": "406.1300",
+        "MSFT_4. close": "408.3900",
+        "MSFT_5. volume": "14195516"
+    },
+    {
+        "MSFT_1. open": "405.9100",
+        "MSFT_2. high": "411.2400",
+        "MSFT_3. low": "404.3700",
+        "MSFT_4. close": "408.9000",
+        "MSFT_5. volume": "14886710"
+    },
+    {
+        "MSFT_1. open": "417.9100",
+        "MSFT_2. high": "419.8800",
+        "MSFT_3. low": "407.0300",
+        "MSFT_4. close": "409.4400",
+        "MSFT_5. volume": "20313603"
+    },
+    {
+        "MSFT_1. open": "415.6000",
+        "MSFT_2. high": "417.4900",
+        "MSFT_3. low": "412.1300",
+        "MSFT_4. close": "417.1400",
+        "MSFT_5. volume": "24308324"
+    },
+    {
+        "MSFT_1. open": "414.9400",
+        "MSFT_2. high": "422.0500",
+        "MSFT_3. low": "410.6000",
+        "MSFT_4. close": "413.1200",
+        "MSFT_5. volume": "17045241"
+    },
+    {
+        "MSFT_1. open": "414.8800",
+        "MSFT_2. high": "415.0000",
+        "MSFT_3. low": "407.3100",
+        "MSFT_4. close": "410.6000",
+        "MSFT_5. volume": "14882660"
+    },
+    {
+        "MSFT_1. open": "412.8600",
+        "MSFT_2. high": "414.3600",
+        "MSFT_3. low": "410.2500",
+        "MSFT_4. close": "413.8400",
+        "MSFT_5. volume": "13492911"
+    },
+    {
+        "MSFT_1. open": "416.3650",
+        "MSFT_2. high": "417.2799",
+        "MSFT_3. low": "411.3400",
+        "MSFT_4. close": "413.4900",
+        "MSFT_5. volume": "13152830"
+    },
+    {
+        "MSFT_1. open": "416.9800",
+        "MSFT_2. high": "419.2600",
+        "MSFT_3. low": "412.0900",
+        "MSFT_4. close": "416.7900",
+        "MSFT_5. volume": "18493784"
+    },
+    {
+        "MSFT_1. open": "424.3600",
+        "MSFT_2. high": "426.7899",
+        "MSFT_3. low": "414.6100",
+        "MSFT_4. close": "415.5500",
+        "MSFT_5. volume": "19361901"
+    },
+    {
+        "MSFT_1. open": "424.0750",
+        "MSFT_2. high": "426.4000",
+        "MSFT_3. low": "421.7200",
+        "MSFT_4. close": "424.1400",
+        "MSFT_5. volume": "16067298"
+    },
+    {
+        "MSFT_1. open": "421.7000",
+        "MSFT_2. high": "425.8600",
+        "MSFT_3. low": "421.6400",
+        "MSFT_4. close": "424.8000",
+        "MSFT_5. volume": "16387581"
+    },
+    {
+        "MSFT_1. open": "418.9600",
+        "MSFT_2. high": "421.7500",
+        "MSFT_3. low": "416.4600",
+        "MSFT_4. close": "421.5300",
+        "MSFT_5. volume": "15233957"
+    },
+    {
+        "MSFT_1. open": "420.6000",
+        "MSFT_2. high": "421.3400",
+        "MSFT_3. low": "417.3000",
+        "MSFT_4. close": "418.4700",
+        "MSFT_5. volume": "22775593"
+    },
+    {
+        "MSFT_1. open": "419.8000",
+        "MSFT_2. high": "421.1100",
+        "MSFT_3. low": "417.6600",
+        "MSFT_4. close": "421.0300",
+        "MSFT_5. volume": "20752144"
+    },
+    {
+        "MSFT_1. open": "414.8000",
+        "MSFT_2. high": "417.7200",
+        "MSFT_3. low": "412.4456",
+        "MSFT_4. close": "416.8600",
+        "MSFT_5. volume": "18266980"
+    },
+    {
+        "MSFT_1. open": "409.5900",
+        "MSFT_2. high": "414.9500",
+        "MSFT_3. low": "409.5700",
+        "MSFT_4. close": "414.0100",
+        "MSFT_5. volume": "19414271"
+    },
+    {
+        "MSFT_1. open": "407.0600",
+        "MSFT_2. high": "408.7600",
+        "MSFT_3. low": "404.2434",
+        "MSFT_4. close": "406.8100",
+        "MSFT_5. volume": "16762883"
+    },
+    {
+        "MSFT_1. open": "404.0300",
+        "MSFT_2. high": "408.0500",
+        "MSFT_3. low": "402.2624",
+        "MSFT_4. close": "406.0200",
+        "MSFT_5. volume": "19276666"
+    },
+    {
+        "MSFT_1. open": "402.4400",
+        "MSFT_2. high": "405.8600",
+        "MSFT_3. low": "399.9407",
+        "MSFT_4. close": "402.6900",
+        "MSFT_5. volume": "20203030"
+    },
+    {
+        "MSFT_1. open": "408.6350",
+        "MSFT_2. high": "410.0800",
+        "MSFT_3. low": "397.4700",
+        "MSFT_4. close": "398.4300",
+        "MSFT_5. volume": "20650906"
+    },
+    {
+        "MSFT_1. open": "400.0000",
+        "MSFT_2. high": "405.6700",
+        "MSFT_3. low": "398.5000",
+        "MSFT_4. close": "399.6100",
+        "MSFT_5. volume": "24946525"
+    },
+    {
+        "MSFT_1. open": "389.1700",
+        "MSFT_2. high": "401.0400",
+        "MSFT_3. low": "385.5800",
+        "MSFT_4. close": "395.1500",
+        "MSFT_5. volume": "40709238"
+    },
+    {
+        "MSFT_1. open": "412.4900",
+        "MSFT_2. high": "415.0000",
+        "MSFT_3. low": "404.3400",
+        "MSFT_4. close": "408.4900",
+        "MSFT_5. volume": "29437900"
+    },
+    {
+        "MSFT_1. open": "420.7850",
+        "MSFT_2. high": "427.4600",
+        "MSFT_3. low": "413.0901",
+        "MSFT_4. close": "417.1100",
+        "MSFT_5. volume": "30296400"
+    },
+    {
+        "MSFT_1. open": "420.4950",
+        "MSFT_2. high": "421.7750",
+        "MSFT_3. low": "412.2100",
+        "MSFT_4. close": "418.3500",
+        "MSFT_5. volume": "42891366"
+    },
+    {
+        "MSFT_1. open": "427.7200",
+        "MSFT_2. high": "429.0500",
+        "MSFT_3. low": "417.3600",
+        "MSFT_4. close": "422.9200",
+        "MSFT_5. volume": "32687578"
+    },
+    {
+        "MSFT_1. open": "431.5800",
+        "MSFT_2. high": "432.1500",
+        "MSFT_3. low": "424.7042",
+        "MSFT_4. close": "426.7300",
+        "MSFT_5. volume": "15125836"
+    },
+    {
+        "MSFT_1. open": "418.2000",
+        "MSFT_2. high": "428.9150",
+        "MSFT_3. low": "417.2700",
+        "MSFT_4. close": "425.2700",
+        "MSFT_5. volume": "23583839"
+    },
+    {
+        "MSFT_1. open": "428.8000",
+        "MSFT_2. high": "429.8000",
+        "MSFT_3. low": "417.5100",
+        "MSFT_4. close": "418.4000",
+        "MSFT_5. volume": "29943795"
+    },
+    {
+        "MSFT_1. open": "440.4500",
+        "MSFT_2. high": "441.4800",
+        "MSFT_3. low": "427.5850",
+        "MSFT_4. close": "428.9000",
+        "MSFT_5. volume": "26805800"
+    },
+    {
+        "MSFT_1. open": "443.8950",
+        "MSFT_2. high": "448.3900",
+        "MSFT_3. low": "443.1000",
+        "MSFT_4. close": "444.8500",
+        "MSFT_5. volume": "13107050"
+    },
+    {
+        "MSFT_1. open": "441.7900",
+        "MSFT_2. high": "444.6000",
+        "MSFT_3. low": "438.9125",
+        "MSFT_4. close": "442.9400",
+        "MSFT_5. volume": "15808755"
+    },
+    {
+        "MSFT_1. open": "433.1000",
+        "MSFT_2. high": "441.1400",
+        "MSFT_3. low": "432.0000",
+        "MSFT_4. close": "437.1100",
+        "MSFT_5. volume": "20940417"
+    },
+    {
+        "MSFT_1. open": "444.3400",
+        "MSFT_2. high": "444.6500",
+        "MSFT_3. low": "434.4000",
+        "MSFT_4. close": "440.3700",
+        "MSFT_5. volume": "20794822"
+    },
+    {
+        "MSFT_1. open": "442.5900",
+        "MSFT_2. high": "444.8500",
+        "MSFT_3. low": "439.1800",
+        "MSFT_4. close": "443.5200",
+        "MSFT_5. volume": "21754021"
+    },
+    {
+        "MSFT_1. open": "454.2200",
+        "MSFT_2. high": "454.3000",
+        "MSFT_3. low": "446.6600",
+        "MSFT_4. close": "449.5200",
+        "MSFT_5. volume": "17175679"
+    },
+    {
+        "MSFT_1. open": "453.3000",
+        "MSFT_2. high": "457.2600",
+        "MSFT_3. low": "451.4300",
+        "MSFT_4. close": "453.9600",
+        "MSFT_5. volume": "14429447"
+    },
+    {
+        "MSFT_1. open": "454.3250",
+        "MSFT_2. high": "456.3600",
+        "MSFT_3. low": "450.6450",
+        "MSFT_4. close": "453.5500",
+        "MSFT_5. volume": "16324274"
+    },
+    {
+        "MSFT_1. open": "462.9800",
+        "MSFT_2. high": "464.7800",
+        "MSFT_3. low": "451.5500",
+        "MSFT_4. close": "454.7000",
+        "MSFT_5. volume": "23111175"
+    },
+    {
+        "MSFT_1. open": "461.2200",
+        "MSFT_2. high": "466.4600",
+        "MSFT_3. low": "458.8550",
+        "MSFT_4. close": "466.2500",
+        "MSFT_5. volume": "18196100"
+    },
+    {
+        "MSFT_1. open": "467.0000",
+        "MSFT_2. high": "467.3300",
+        "MSFT_3. low": "458.0000",
+        "MSFT_4. close": "459.5400",
+        "MSFT_5. volume": "17228507"
+    },
+    {
+        "MSFT_1. open": "466.5500",
+        "MSFT_2. high": "467.7000",
+        "MSFT_3. low": "464.4600",
+        "MSFT_4. close": "466.2400",
+        "MSFT_5. volume": "12962321"
+    },
+    {
+        "MSFT_1. open": "459.6100",
+        "MSFT_2. high": "468.3500",
+        "MSFT_3. low": "458.9650",
+        "MSFT_4. close": "467.5600",
+        "MSFT_5. volume": "16000290"
+    },
+    {
+        "MSFT_1. open": "458.1900",
+        "MSFT_2. high": "461.0200",
+        "MSFT_3. low": "457.8800",
+        "MSFT_4. close": "460.7700",
+        "MSFT_5. volume": "9932830"
+    },
+    {
+        "MSFT_1. open": "453.2000",
+        "MSFT_2. high": "459.5900",
+        "MSFT_3. low": "453.1130",
+        "MSFT_4. close": "459.2800",
+        "MSFT_5. volume": "13979779"
+    },
+    {
+        "MSFT_1. open": "448.6600",
+        "MSFT_2. high": "457.3700",
+        "MSFT_3. low": "445.6600",
+        "MSFT_4. close": "456.7300",
+        "MSFT_5. volume": "17662818"
+    },
+    {
+        "MSFT_1. open": "453.0700",
+        "MSFT_2. high": "455.3800",
+        "MSFT_3. low": "446.4100",
+        "MSFT_4. close": "446.9500",
+        "MSFT_5. volume": "28362271"
+    },
+    {
+        "MSFT_1. open": "452.1750",
+        "MSFT_2. high": "456.1700",
+        "MSFT_3. low": "451.7700",
+        "MSFT_4. close": "452.8500",
+        "MSFT_5. volume": "14806324"
+    },
+    {
+        "MSFT_1. open": "449.0000",
+        "MSFT_2. high": "453.6000",
+        "MSFT_3. low": "448.1900",
+        "MSFT_4. close": "452.1600",
+        "MSFT_5. volume": "16507030"
+    },
+    {
+        "MSFT_1. open": "448.2500",
+        "MSFT_2. high": "451.4200",
+        "MSFT_3. low": "446.7500",
+        "MSFT_4. close": "450.9500",
+        "MSFT_5. volume": "16747529"
+    },
+    {
+        "MSFT_1. open": "449.8000",
+        "MSFT_2. high": "452.7500",
+        "MSFT_3. low": "446.4100",
+        "MSFT_4. close": "447.6700",
+        "MSFT_5. volume": "15913719"
+    },
+    {
+        "MSFT_1. open": "447.3800",
+        "MSFT_2. high": "450.5800",
+        "MSFT_3. low": "446.5100",
+        "MSFT_4. close": "449.7800",
+        "MSFT_5. volume": "34486172"
+    },
+    {
+        "MSFT_1. open": "446.3000",
+        "MSFT_2. high": "446.5300",
+        "MSFT_3. low": "441.2700",
+        "MSFT_4. close": "445.7000",
+        "MSFT_5. volume": "19877378"
+    },
+    {
+        "MSFT_1. open": "449.7050",
+        "MSFT_2. high": "450.1400",
+        "MSFT_3. low": "444.8900",
+        "MSFT_4. close": "446.3400",
+        "MSFT_5. volume": "17112504"
+    },
+    {
+        "MSFT_1. open": "442.5850",
+        "MSFT_2. high": "450.9400",
+        "MSFT_3. low": "440.7200",
+        "MSFT_4. close": "448.3700",
+        "MSFT_5. volume": "20790030"
+    },
+    {
+        "MSFT_1. open": "438.2750",
+        "MSFT_2. high": "443.1376",
+        "MSFT_3. low": "436.7210",
+        "MSFT_4. close": "442.5700",
+        "MSFT_5. volume": "13581985"
+    },
+    {
+        "MSFT_1. open": "440.8500",
+        "MSFT_2. high": "443.3900",
+        "MSFT_3. low": "439.3700",
+        "MSFT_4. close": "441.5800",
+        "MSFT_5. volume": "15960565"
+    },
+    {
+        "MSFT_1. open": "435.3200",
+        "MSFT_2. high": "443.4000",
+        "MSFT_3. low": "433.2500",
+        "MSFT_4. close": "441.0600",
+        "MSFT_5. volume": "22366233"
+    },
+    {
+        "MSFT_1. open": "425.4750",
+        "MSFT_2. high": "432.8200",
+        "MSFT_3. low": "425.2500",
+        "MSFT_4. close": "432.6800",
+        "MSFT_5. volume": "14551101"
+    },
+    {
+        "MSFT_1. open": "424.7000",
+        "MSFT_2. high": "428.0800",
+        "MSFT_3. low": "423.8900",
+        "MSFT_4. close": "427.8700",
+        "MSFT_5. volume": "14003034"
+    },
+    {
+        "MSFT_1. open": "426.2000",
+        "MSFT_2. high": "426.2800",
+        "MSFT_3. low": "423.0000",
+        "MSFT_4. close": "423.8500",
+        "MSFT_5. volume": "13621650"
+    },
+    {
+        "MSFT_1. open": "424.0100",
+        "MSFT_2. high": "425.3100",
+        "MSFT_3. low": "420.5800",
+        "MSFT_4. close": "424.5200",
+        "MSFT_5. volume": "14861251"
+    },
+    {
+        "MSFT_1. open": "417.8100",
+        "MSFT_2. high": "424.0800",
+        "MSFT_3. low": "416.3000",
+        "MSFT_4. close": "424.0100",
+        "MSFT_5. volume": "16988038"
+    },
+    {
+        "MSFT_1. open": "412.4300",
+        "MSFT_2. high": "416.4400",
+        "MSFT_3. low": "409.6750",
+        "MSFT_4. close": "416.0700",
+        "MSFT_5. volume": "14348917"
+    },
+    {
+        "MSFT_1. open": "415.5250",
+        "MSFT_2. high": "416.4300",
+        "MSFT_3. low": "408.9234",
+        "MSFT_4. close": "413.5200",
+        "MSFT_5. volume": "17484675"
+    },
+    {
+        "MSFT_1. open": "416.7500",
+        "MSFT_2. high": "416.7500",
+        "MSFT_3. low": "404.5100",
+        "MSFT_4. close": "415.1300",
+        "MSFT_5. volume": "47995250"
+    },
+    {
+        "MSFT_1. open": "424.3000",
+        "MSFT_2. high": "424.3000",
+        "MSFT_3. low": "414.2400",
+        "MSFT_4. close": "414.6700",
+        "MSFT_5. volume": "28424847"
+    },
+    {
+        "MSFT_1. open": "425.6900",
+        "MSFT_2. high": "430.9400",
+        "MSFT_3. low": "425.6900",
+        "MSFT_4. close": "429.1700",
+        "MSFT_5. volume": "15517130"
+    },
+    {
+        "MSFT_1. open": "429.6300",
+        "MSFT_2. high": "430.8200",
+        "MSFT_3. low": "426.6000",
+        "MSFT_4. close": "430.3200",
+        "MSFT_5. volume": "15718024"
+    },
+    {
+        "MSFT_1. open": "427.1900",
+        "MSFT_2. high": "431.0550",
+        "MSFT_3. low": "424.4100",
+        "MSFT_4. close": "430.1600",
+        "MSFT_5. volume": "11855285"
+    },
+    {
+        "MSFT_1. open": "432.9700",
+        "MSFT_2. high": "433.6000",
+        "MSFT_3. low": "425.4240",
+        "MSFT_4. close": "427.0000",
+        "MSFT_5. volume": "17211689"
+    },
+    {
+        "MSFT_1. open": "430.0900",
+        "MSFT_2. high": "432.4100",
+        "MSFT_3. low": "427.1300",
+        "MSFT_4. close": "430.5200",
+        "MSFT_5. volume": "18073698"
+    },
+    {
+        "MSFT_1. open": "426.8250",
+        "MSFT_2. high": "432.9700",
+        "MSFT_3. low": "424.8500",
+        "MSFT_4. close": "429.0400",
+        "MSFT_5. volume": "21453255"
+    },
+    {
+        "MSFT_1. open": "420.2100",
+        "MSFT_2. high": "426.7700",
+        "MSFT_3. low": "419.9900",
+        "MSFT_4. close": "425.3400",
+        "MSFT_5. volume": "16272137"
+    },
+    {
+        "MSFT_1. open": "422.5400",
+        "MSFT_2. high": "422.9200",
+        "MSFT_3. low": "418.0250",
+        "MSFT_4. close": "420.2100",
+        "MSFT_5. volume": "15352239"
+    },
+    {
+        "MSFT_1. open": "421.8000",
+        "MSFT_2. high": "425.4200",
+        "MSFT_3. low": "420.3500",
+        "MSFT_4. close": "420.9900",
+        "MSFT_5. volume": "17530050"
+    },
+    {
+        "MSFT_1. open": "417.9000",
+        "MSFT_2. high": "423.8100",
+        "MSFT_3. low": "417.2700",
+        "MSFT_4. close": "423.0800",
+        "MSFT_5. volume": "22239533"
+    },
+    {
+        "MSFT_1. open": "412.0200",
+        "MSFT_2. high": "417.4900",
+        "MSFT_3. low": "411.5500",
+        "MSFT_4. close": "416.5600",
+        "MSFT_5. volume": "15109306"
+    },
+    {
+        "MSFT_1. open": "418.0100",
+        "MSFT_2. high": "418.3480",
+        "MSFT_3. low": "410.8200",
+        "MSFT_4. close": "413.7200",
+        "MSFT_5. volume": "15440226"
+    },
+    {
+        "MSFT_1. open": "412.9350",
+        "MSFT_2. high": "415.3800",
+        "MSFT_3. low": "411.8000",
+        "MSFT_4. close": "414.7400",
+        "MSFT_5. volume": "13402281"
+    },
+    {
+        "MSFT_1. open": "410.5700",
+        "MSFT_2. high": "412.7200",
+        "MSFT_3. low": "409.1000",
+        "MSFT_4. close": "412.3200",
+        "MSFT_5. volume": "14689727"
+    }
+]

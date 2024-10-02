@@ -20,3 +20,7 @@ sudo docker compose up -d
 ```
 
 4. Перейти на `http://localhost:4200/runs`, где уже будет запущен пайплайн
+
+# Демо
+
+![Prefect task demo](assets/Prefect_demo.mp4)

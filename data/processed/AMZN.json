@@ -1,0 +1,702 @@
+[
+    {
+        "AMZN_1. open": "184.9000",
+        "AMZN_2. high": "186.1900",
+        "AMZN_3. low": "183.4519",
+        "AMZN_4. close": "185.1300",
+        "AMZN_5. volume": "36044906"
+    },
+    {
+        "AMZN_1. open": "187.1400",
+        "AMZN_2. high": "188.4900",
+        "AMZN_3. low": "184.6500",
+        "AMZN_4. close": "186.3300",
+        "AMZN_5. volume": "41680400"
+    },
+    {
+        "AMZN_1. open": "190.6800",
+        "AMZN_2. high": "190.9000",
+        "AMZN_3. low": "187.3400",
+        "AMZN_4. close": "187.9700",
+        "AMZN_5. volume": "36002316"
+    },
+    {
+        "AMZN_1. open": "194.3100",
+        "AMZN_2. high": "194.5300",
+        "AMZN_3. low": "189.5400",
+        "AMZN_4. close": "191.1600",
+        "AMZN_5. volume": "36334854"
+    },
+    {
+        "AMZN_1. open": "193.7500",
+        "AMZN_2. high": "193.9498",
+        "AMZN_3. low": "192.1600",
+        "AMZN_4. close": "192.5300",
+        "AMZN_5. volume": "26391144"
+    },
+    {
+        "AMZN_1. open": "194.2700",
+        "AMZN_2. high": "195.3700",
+        "AMZN_3. low": "190.1300",
+        "AMZN_4. close": "193.9600",
+        "AMZN_5. volume": "43478926"
+    },
+    {
+        "AMZN_1. open": "191.6400",
+        "AMZN_2. high": "194.4500",
+        "AMZN_3. low": "190.5700",
+        "AMZN_4. close": "193.8800",
+        "AMZN_5. volume": "36993111"
+    },
+    {
+        "AMZN_1. open": "190.2300",
+        "AMZN_2. high": "191.8400",
+        "AMZN_3. low": "187.4100",
+        "AMZN_4. close": "191.6000",
+        "AMZN_5. volume": "100378553"
+    },
+    {
+        "AMZN_1. open": "190.0400",
+        "AMZN_2. high": "190.9900",
+        "AMZN_3. low": "188.4700",
+        "AMZN_4. close": "189.8700",
+        "AMZN_5. volume": "39543168"
+    },
+    {
+        "AMZN_1. open": "186.4500",
+        "AMZN_2. high": "188.8000",
+        "AMZN_3. low": "185.0600",
+        "AMZN_4. close": "186.4300",
+        "AMZN_5. volume": "34448130"
+    },
+    {
+        "AMZN_1. open": "186.8500",
+        "AMZN_2. high": "189.4500",
+        "AMZN_3. low": "186.1400",
+        "AMZN_4. close": "186.8800",
+        "AMZN_5. volume": "26091682"
+    },
+    {
+        "AMZN_1. open": "185.2900",
+        "AMZN_2. high": "185.8100",
+        "AMZN_3. low": "183.3600",
+        "AMZN_4. close": "184.8900",
+        "AMZN_5. volume": "26065485"
+    },
+    {
+        "AMZN_1. open": "187.0000",
+        "AMZN_2. high": "188.5000",
+        "AMZN_3. low": "185.9100",
+        "AMZN_4. close": "186.4900",
+        "AMZN_5. volume": "26495351"
+    },
+    {
+        "AMZN_1. open": "184.8000",
+        "AMZN_2. high": "187.4100",
+        "AMZN_3. low": "183.5400",
+        "AMZN_4. close": "187.0000",
+        "AMZN_5. volume": "33622483"
+    },
+    {
+        "AMZN_1. open": "180.0950",
+        "AMZN_2. high": "184.9900",
+        "AMZN_3. low": "175.7300",
+        "AMZN_4. close": "184.5200",
+        "AMZN_5. volume": "42564698"
+    },
+    {
+        "AMZN_1. open": "177.4900",
+        "AMZN_2. high": "180.5000",
+        "AMZN_3. low": "176.7900",
+        "AMZN_4. close": "179.5500",
+        "AMZN_5. volume": "36233796"
+    },
+    {
+        "AMZN_1. open": "174.5300",
+        "AMZN_2. high": "175.8500",
+        "AMZN_3. low": "173.5100",
+        "AMZN_4. close": "175.4000",
+        "AMZN_5. volume": "29037362"
+    },
+    {
+        "AMZN_1. open": "177.2400",
+        "AMZN_2. high": "178.3800",
+        "AMZN_3. low": "171.1600",
+        "AMZN_4. close": "171.3900",
+        "AMZN_5. volume": "41466537"
+    },
+    {
+        "AMZN_1. open": "175.0000",
+        "AMZN_2. high": "179.8750",
+        "AMZN_3. low": "174.9950",
+        "AMZN_4. close": "177.8900",
+        "AMZN_5. volume": "40170526"
+    },
+    {
+        "AMZN_1. open": "174.4800",
+        "AMZN_2. high": "175.9800",
+        "AMZN_3. low": "172.5400",
+        "AMZN_4. close": "173.3300",
+        "AMZN_5. volume": "29682478"
+    },
+    {
+        "AMZN_1. open": "177.5500",
+        "AMZN_2. high": "178.2600",
+        "AMZN_3. low": "175.2600",
+        "AMZN_4. close": "176.2500",
+        "AMZN_5. volume": "37817511"
+    },
+    {
+        "AMZN_1. open": "172.7800",
+        "AMZN_2. high": "178.9000",
+        "AMZN_3. low": "172.6000",
+        "AMZN_4. close": "178.5000",
+        "AMZN_5. volume": "43429355"
+    },
+    {
+        "AMZN_1. open": "173.2200",
+        "AMZN_2. high": "174.2900",
+        "AMZN_3. low": "170.8100",
+        "AMZN_4. close": "172.1200",
+        "AMZN_5. volume": "26407815"
+    },
+    {
+        "AMZN_1. open": "173.6900",
+        "AMZN_2. high": "173.6900",
+        "AMZN_3. low": "168.9200",
+        "AMZN_4. close": "170.8000",
+        "AMZN_5. volume": "29045025"
+    },
+    {
+        "AMZN_1. open": "174.1500",
+        "AMZN_2. high": "174.8900",
+        "AMZN_3. low": "172.2500",
+        "AMZN_4. close": "173.1200",
+        "AMZN_5. volume": "29841979"
+    },
+    {
+        "AMZN_1. open": "176.7000",
+        "AMZN_2. high": "177.4682",
+        "AMZN_3. low": "174.3000",
+        "AMZN_4. close": "175.5000",
+        "AMZN_5. volume": "22366236"
+    },
+    {
+        "AMZN_1. open": "177.3400",
+        "AMZN_2. high": "178.9699",
+        "AMZN_3. low": "175.2400",
+        "AMZN_4. close": "177.0400",
+        "AMZN_5. volume": "29150091"
+    },
+    {
+        "AMZN_1. open": "181.3800",
+        "AMZN_2. high": "181.4700",
+        "AMZN_3. low": "175.6800",
+        "AMZN_4. close": "176.1300",
+        "AMZN_5. volume": "32047482"
+    },
+    {
+        "AMZN_1. open": "179.9200",
+        "AMZN_2. high": "182.3850",
+        "AMZN_3. low": "178.8937",
+        "AMZN_4. close": "180.1100",
+        "AMZN_5. volume": "35599120"
+    },
+    {
+        "AMZN_1. open": "177.9200",
+        "AMZN_2. high": "179.0100",
+        "AMZN_3. low": "177.4308",
+        "AMZN_4. close": "178.8800",
+        "AMZN_5. volume": "26255204"
+    },
+    {
+        "AMZN_1. open": "177.6400",
+        "AMZN_2. high": "178.3000",
+        "AMZN_3. low": "176.1600",
+        "AMZN_4. close": "178.2200",
+        "AMZN_5. volume": "31129807"
+    },
+    {
+        "AMZN_1. open": "177.0400",
+        "AMZN_2. high": "178.3400",
+        "AMZN_3. low": "176.2601",
+        "AMZN_4. close": "177.0600",
+        "AMZN_5. volume": "31489175"
+    },
+    {
+        "AMZN_1. open": "174.8600",
+        "AMZN_2. high": "177.9100",
+        "AMZN_3. low": "173.9900",
+        "AMZN_4. close": "177.5900",
+        "AMZN_5. volume": "51698513"
+    },
+    {
+        "AMZN_1. open": "172.1100",
+        "AMZN_2. high": "172.2800",
+        "AMZN_3. low": "168.8600",
+        "AMZN_4. close": "170.1000",
+        "AMZN_5. volume": "28843804"
+    },
+    {
+        "AMZN_1. open": "167.8100",
+        "AMZN_2. high": "171.0400",
+        "AMZN_3. low": "167.1000",
+        "AMZN_4. close": "170.2300",
+        "AMZN_5. volume": "39237915"
+    },
+    {
+        "AMZN_1. open": "168.1400",
+        "AMZN_2. high": "168.5500",
+        "AMZN_3. low": "166.1101",
+        "AMZN_4. close": "166.8000",
+        "AMZN_5. volume": "30072788"
+    },
+    {
+        "AMZN_1. open": "166.4000",
+        "AMZN_2. high": "168.5500",
+        "AMZN_3. low": "165.8500",
+        "AMZN_4. close": "166.9400",
+        "AMZN_5. volume": "36401049"
+    },
+    {
+        "AMZN_1. open": "165.1650",
+        "AMZN_2. high": "166.6899",
+        "AMZN_3. low": "162.5500",
+        "AMZN_4. close": "165.8000",
+        "AMZN_5. volume": "44616206"
+    },
+    {
+        "AMZN_1. open": "166.5500",
+        "AMZN_2. high": "167.5800",
+        "AMZN_3. low": "161.4300",
+        "AMZN_4. close": "162.7700",
+        "AMZN_5. volume": "48408240"
+    },
+    {
+        "AMZN_1. open": "161.7100",
+        "AMZN_2. high": "165.0800",
+        "AMZN_3. low": "158.5404",
+        "AMZN_4. close": "161.9300",
+        "AMZN_5. volume": "59950830"
+    },
+    {
+        "AMZN_1. open": "154.2100",
+        "AMZN_2. high": "162.9600",
+        "AMZN_3. low": "151.6100",
+        "AMZN_4. close": "161.0200",
+        "AMZN_5. volume": "83149437"
+    },
+    {
+        "AMZN_1. open": "166.7500",
+        "AMZN_2. high": "168.7700",
+        "AMZN_3. low": "160.5500",
+        "AMZN_4. close": "167.9000",
+        "AMZN_5. volume": "141448365"
+    },
+    {
+        "AMZN_1. open": "189.2850",
+        "AMZN_2. high": "190.6000",
+        "AMZN_3. low": "181.8700",
+        "AMZN_4. close": "184.0700",
+        "AMZN_5. volume": "70435635"
+    },
+    {
+        "AMZN_1. open": "185.0500",
+        "AMZN_2. high": "187.9400",
+        "AMZN_3. low": "184.4600",
+        "AMZN_4. close": "186.9800",
+        "AMZN_5. volume": "41667326"
+    },
+    {
+        "AMZN_1. open": "184.7200",
+        "AMZN_2. high": "185.8600",
+        "AMZN_3. low": "179.3800",
+        "AMZN_4. close": "181.7100",
+        "AMZN_5. volume": "39508574"
+    },
+    {
+        "AMZN_1. open": "183.8400",
+        "AMZN_2. high": "184.7500",
+        "AMZN_3. low": "182.3800",
+        "AMZN_4. close": "183.2000",
+        "AMZN_5. volume": "33270123"
+    },
+    {
+        "AMZN_1. open": "180.3900",
+        "AMZN_2. high": "183.1900",
+        "AMZN_3. low": "180.2400",
+        "AMZN_4. close": "182.5000",
+        "AMZN_5. volume": "29505964"
+    },
+    {
+        "AMZN_1. open": "182.9100",
+        "AMZN_2. high": "183.8958",
+        "AMZN_3. low": "176.8000",
+        "AMZN_4. close": "179.8500",
+        "AMZN_5. volume": "44464163"
+    },
+    {
+        "AMZN_1. open": "183.2000",
+        "AMZN_2. high": "185.4500",
+        "AMZN_3. low": "180.4100",
+        "AMZN_4. close": "180.8300",
+        "AMZN_5. volume": "41532360"
+    },
+    {
+        "AMZN_1. open": "184.1000",
+        "AMZN_2. high": "189.3900",
+        "AMZN_3. low": "183.5600",
+        "AMZN_4. close": "186.4100",
+        "AMZN_5. volume": "47537670"
+    },
+    {
+        "AMZN_1. open": "185.0000",
+        "AMZN_2. high": "185.0600",
+        "AMZN_3. low": "182.4800",
+        "AMZN_4. close": "182.5500",
+        "AMZN_5. volume": "39931923"
+    },
+    {
+        "AMZN_1. open": "181.1400",
+        "AMZN_2. high": "184.9300",
+        "AMZN_3. low": "180.1100",
+        "AMZN_4. close": "183.1300",
+        "AMZN_5. volume": "43081829"
+    },
+    {
+        "AMZN_1. open": "189.5900",
+        "AMZN_2. high": "189.6800",
+        "AMZN_3. low": "181.4480",
+        "AMZN_4. close": "183.7500",
+        "AMZN_5. volume": "51043626"
+    },
+    {
+        "AMZN_1. open": "191.3500",
+        "AMZN_2. high": "191.5800",
+        "AMZN_3. low": "185.9900",
+        "AMZN_4. close": "187.9300",
+        "AMZN_5. volume": "48076139"
+    },
+    {
+        "AMZN_1. open": "195.5900",
+        "AMZN_2. high": "196.6200",
+        "AMZN_3. low": "192.2400",
+        "AMZN_4. close": "193.0200",
+        "AMZN_5. volume": "33994714"
+    },
+    {
+        "AMZN_1. open": "194.5600",
+        "AMZN_2. high": "196.1900",
+        "AMZN_3. low": "190.8300",
+        "AMZN_4. close": "192.7200",
+        "AMZN_5. volume": "40683227"
+    },
+    {
+        "AMZN_1. open": "194.8000",
+        "AMZN_2. high": "196.4700",
+        "AMZN_3. low": "193.8301",
+        "AMZN_4. close": "194.4900",
+        "AMZN_5. volume": "30598525"
+    },
+    {
+        "AMZN_1. open": "200.0900",
+        "AMZN_2. high": "200.2699",
+        "AMZN_3. low": "192.8600",
+        "AMZN_4. close": "195.0500",
+        "AMZN_5. volume": "44565041"
+    },
+    {
+        "AMZN_1. open": "199.9950",
+        "AMZN_2. high": "200.1100",
+        "AMZN_3. low": "197.6900",
+        "AMZN_4. close": "199.7900",
+        "AMZN_5. volume": "32883753"
+    },
+    {
+        "AMZN_1. open": "199.4000",
+        "AMZN_2. high": "200.5700",
+        "AMZN_3. low": "199.0450",
+        "AMZN_4. close": "199.3400",
+        "AMZN_5. volume": "32756736"
+    },
+    {
+        "AMZN_1. open": "200.0400",
+        "AMZN_2. high": "201.2000",
+        "AMZN_3. low": "197.9600",
+        "AMZN_4. close": "199.2900",
+        "AMZN_5. volume": "34767261"
+    },
+    {
+        "AMZN_1. open": "198.6500",
+        "AMZN_2. high": "200.5500",
+        "AMZN_3. low": "198.1700",
+        "AMZN_4. close": "200.0000",
+        "AMZN_5. volume": "39858885"
+    },
+    {
+        "AMZN_1. open": "199.9400",
+        "AMZN_2. high": "200.0290",
+        "AMZN_3. low": "196.7601",
+        "AMZN_4. close": "197.5900",
+        "AMZN_5. volume": "31597926"
+    },
+    {
+        "AMZN_1. open": "197.2800",
+        "AMZN_2. high": "200.4300",
+        "AMZN_3. low": "195.9300",
+        "AMZN_4. close": "200.0000",
+        "AMZN_5. volume": "45600013"
+    },
+    {
+        "AMZN_1. open": "193.4900",
+        "AMZN_2. high": "198.2957",
+        "AMZN_3. low": "192.8200",
+        "AMZN_4. close": "197.2000",
+        "AMZN_5. volume": "41192011"
+    },
+    {
+        "AMZN_1. open": "197.7300",
+        "AMZN_2. high": "198.8500",
+        "AMZN_3. low": "192.5000",
+        "AMZN_4. close": "193.2500",
+        "AMZN_5. volume": "76930192"
+    },
+    {
+        "AMZN_1. open": "195.0050",
+        "AMZN_2. high": "199.8400",
+        "AMZN_3. low": "194.2000",
+        "AMZN_4. close": "197.8500",
+        "AMZN_5. volume": "74397491"
+    },
+    {
+        "AMZN_1. open": "186.9200",
+        "AMZN_2. high": "194.8000",
+        "AMZN_3. low": "186.2600",
+        "AMZN_4. close": "193.6100",
+        "AMZN_5. volume": "65103893"
+    },
+    {
+        "AMZN_1. open": "186.8100",
+        "AMZN_2. high": "188.8400",
+        "AMZN_3. low": "185.4200",
+        "AMZN_4. close": "186.3400",
+        "AMZN_5. volume": "45898475"
+    },
+    {
+        "AMZN_1. open": "189.3300",
+        "AMZN_2. high": "191.0000",
+        "AMZN_3. low": "185.3300",
+        "AMZN_4. close": "185.5700",
+        "AMZN_5. volume": "50610379"
+    },
+    {
+        "AMZN_1. open": "187.8000",
+        "AMZN_2. high": "189.2750",
+        "AMZN_3. low": "185.8600",
+        "AMZN_4. close": "189.0800",
+        "AMZN_5. volume": "72931754"
+    },
+    {
+        "AMZN_1. open": "182.9100",
+        "AMZN_2. high": "186.5100",
+        "AMZN_3. low": "182.7200",
+        "AMZN_4. close": "186.1000",
+        "AMZN_5. volume": "44726779"
+    },
+    {
+        "AMZN_1. open": "183.7350",
+        "AMZN_2. high": "184.2900",
+        "AMZN_3. low": "181.4300",
+        "AMZN_4. close": "182.8100",
+        "AMZN_5. volume": "36659157"
+    },
+    {
+        "AMZN_1. open": "182.5200",
+        "AMZN_2. high": "185.0000",
+        "AMZN_3. low": "181.2200",
+        "AMZN_4. close": "184.0600",
+        "AMZN_5. volume": "35601907"
+    },
+    {
+        "AMZN_1. open": "183.0800",
+        "AMZN_2. high": "183.7200",
+        "AMZN_3. low": "182.2300",
+        "AMZN_4. close": "183.6600",
+        "AMZN_5. volume": "25456410"
+    },
+    {
+        "AMZN_1. open": "186.0900",
+        "AMZN_2. high": "187.6700",
+        "AMZN_3. low": "182.6660",
+        "AMZN_4. close": "183.8300",
+        "AMZN_5. volume": "39721545"
+    },
+    {
+        "AMZN_1. open": "188.0150",
+        "AMZN_2. high": "188.3500",
+        "AMZN_3. low": "185.4300",
+        "AMZN_4. close": "186.8900",
+        "AMZN_5. volume": "33984216"
+    },
+    {
+        "AMZN_1. open": "187.0600",
+        "AMZN_2. high": "187.7700",
+        "AMZN_3. low": "184.5373",
+        "AMZN_4. close": "187.2300",
+        "AMZN_5. volume": "27265108"
+    },
+    {
+        "AMZN_1. open": "184.0700",
+        "AMZN_2. high": "187.2300",
+        "AMZN_3. low": "183.7900",
+        "AMZN_4. close": "187.0600",
+        "AMZN_5. volume": "34494498"
+    },
+    {
+        "AMZN_1. open": "184.9000",
+        "AMZN_2. high": "186.2888",
+        "AMZN_3. low": "183.3600",
+        "AMZN_4. close": "184.3000",
+        "AMZN_5. volume": "28021473"
+    },
+    {
+        "AMZN_1. open": "181.7450",
+        "AMZN_2. high": "185.0000",
+        "AMZN_3. low": "181.4900",
+        "AMZN_4. close": "185.0000",
+        "AMZN_5. volume": "31371151"
+    },
+    {
+        "AMZN_1. open": "180.1000",
+        "AMZN_2. high": "181.5000",
+        "AMZN_3. low": "178.7500",
+        "AMZN_4. close": "181.2800",
+        "AMZN_5. volume": "32116394"
+    },
+    {
+        "AMZN_1. open": "177.6400",
+        "AMZN_2. high": "179.8200",
+        "AMZN_3. low": "176.4400",
+        "AMZN_4. close": "179.3400",
+        "AMZN_5. volume": "27198388"
+    },
+    {
+        "AMZN_1. open": "177.7000",
+        "AMZN_2. high": "178.7000",
+        "AMZN_3. low": "175.9200",
+        "AMZN_4. close": "178.3400",
+        "AMZN_5. volume": "30786640"
+    },
+    {
+        "AMZN_1. open": "178.3000",
+        "AMZN_2. high": "179.2100",
+        "AMZN_3. low": "173.8700",
+        "AMZN_4. close": "176.4400",
+        "AMZN_5. volume": "58903939"
+    },
+    {
+        "AMZN_1. open": "181.3100",
+        "AMZN_2. high": "181.3400",
+        "AMZN_3. low": "178.3550",
+        "AMZN_4. close": "179.3200",
+        "AMZN_5. volume": "29249229"
+    },
+    {
+        "AMZN_1. open": "181.7000",
+        "AMZN_2. high": "184.0800",
+        "AMZN_3. low": "181.5500",
+        "AMZN_4. close": "182.0200",
+        "AMZN_5. volume": "32009294"
+    },
+    {
+        "AMZN_1. open": "179.9300",
+        "AMZN_2. high": "182.2400",
+        "AMZN_3. low": "179.4900",
+        "AMZN_4. close": "182.1500",
+        "AMZN_5. volume": "29926963"
+    },
+    {
+        "AMZN_1. open": "181.6500",
+        "AMZN_2. high": "182.4350",
+        "AMZN_3. low": "180.3000",
+        "AMZN_4. close": "180.7500",
+        "AMZN_5. volume": "27471640"
+    },
+    {
+        "AMZN_1. open": "183.6600",
+        "AMZN_2. high": "184.7600",
+        "AMZN_3. low": "180.0800",
+        "AMZN_4. close": "181.0500",
+        "AMZN_5. volume": "33670173"
+    },
+    {
+        "AMZN_1. open": "183.8800",
+        "AMZN_2. high": "185.2200",
+        "AMZN_3. low": "181.9715",
+        "AMZN_4. close": "183.1300",
+        "AMZN_5. volume": "28148784"
+    },
+    {
+        "AMZN_1. open": "182.3000",
+        "AMZN_2. high": "183.2600",
+        "AMZN_3. low": "180.7500",
+        "AMZN_4. close": "183.1500",
+        "AMZN_5. volume": "50839129"
+    },
+    {
+        "AMZN_1. open": "184.3400",
+        "AMZN_2. high": "186.6650",
+        "AMZN_3. low": "183.2800",
+        "AMZN_4. close": "183.5400",
+        "AMZN_5. volume": "30511768"
+    },
+    {
+        "AMZN_1. open": "183.7600",
+        "AMZN_2. high": "185.3000",
+        "AMZN_3. low": "183.3500",
+        "AMZN_4. close": "184.7000",
+        "AMZN_5. volume": "33175655"
+    },
+    {
+        "AMZN_1. open": "185.6000",
+        "AMZN_2. high": "187.3100",
+        "AMZN_3. low": "183.4600",
+        "AMZN_4. close": "183.6300",
+        "AMZN_5. volume": "38834450"
+    },
+    {
+        "AMZN_1. open": "185.9700",
+        "AMZN_2. high": "186.7193",
+        "AMZN_3. low": "182.7300",
+        "AMZN_4. close": "185.9900",
+        "AMZN_5. volume": "75459927"
+    },
+    {
+        "AMZN_1. open": "183.8200",
+        "AMZN_2. high": "187.7200",
+        "AMZN_3. low": "183.4500",
+        "AMZN_4. close": "187.0700",
+        "AMZN_5. volume": "38698155"
+    },
+    {
+        "AMZN_1. open": "188.0000",
+        "AMZN_2. high": "188.3100",
+        "AMZN_3. low": "185.3600",
+        "AMZN_4. close": "186.5700",
+        "AMZN_5. volume": "24898613"
+    },
+    {
+        "AMZN_1. open": "189.1600",
+        "AMZN_2. high": "189.8920",
+        "AMZN_3. low": "186.9300",
+        "AMZN_4. close": "187.4800",
+        "AMZN_5. volume": "34141771"
+    },
+    {
+        "AMZN_1. open": "188.8800",
+        "AMZN_2. high": "191.7000",
+        "AMZN_3. low": "187.4400",
+        "AMZN_4. close": "189.5000",
+        "AMZN_5. volume": "43368377"
+    }
+]

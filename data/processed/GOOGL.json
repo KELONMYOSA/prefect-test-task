@@ -1,0 +1,702 @@
+[
+    {
+        "GOOGL_1. open": "167.6850",
+        "GOOGL_2. high": "169.1600",
+        "GOOGL_3. low": "164.5800",
+        "GOOGL_4. close": "166.9900",
+        "GOOGL_5. volume": "28338123"
+    },
+    {
+        "GOOGL_1. open": "163.3200",
+        "GOOGL_2. high": "166.1500",
+        "GOOGL_3. low": "163.2600",
+        "GOOGL_4. close": "165.8500",
+        "GOOGL_5. volume": "20481303"
+    },
+    {
+        "GOOGL_1. open": "162.8100",
+        "GOOGL_2. high": "165.7000",
+        "GOOGL_3. low": "162.6261",
+        "GOOGL_4. close": "163.9500",
+        "GOOGL_5. volume": "21101307"
+    },
+    {
+        "GOOGL_1. open": "163.6400",
+        "GOOGL_2. high": "164.0800",
+        "GOOGL_3. low": "162.2800",
+        "GOOGL_4. close": "162.7300",
+        "GOOGL_5. volume": "20319336"
+    },
+    {
+        "GOOGL_1. open": "161.4700",
+        "GOOGL_2. high": "162.8100",
+        "GOOGL_3. low": "161.3000",
+        "GOOGL_4. close": "161.4900",
+        "GOOGL_5. volume": "18869199"
+    },
+    {
+        "GOOGL_1. open": "163.0300",
+        "GOOGL_2. high": "163.2158",
+        "GOOGL_3. low": "160.6900",
+        "GOOGL_4. close": "162.2900",
+        "GOOGL_5. volume": "23332147"
+    },
+    {
+        "GOOGL_1. open": "164.3500",
+        "GOOGL_2. high": "165.4900",
+        "GOOGL_3. low": "161.6700",
+        "GOOGL_4. close": "161.8500",
+        "GOOGL_5. volume": "24150852"
+    },
+    {
+        "GOOGL_1. open": "163.5000",
+        "GOOGL_2. high": "163.7300",
+        "GOOGL_3. low": "162.0600",
+        "GOOGL_4. close": "163.5900",
+        "GOOGL_5. volume": "40896438"
+    },
+    {
+        "GOOGL_1. open": "163.7100",
+        "GOOGL_2. high": "163.7900",
+        "GOOGL_3. low": "161.3400",
+        "GOOGL_4. close": "162.1400",
+        "GOOGL_5. volume": "26587733"
+    },
+    {
+        "GOOGL_1. open": "159.8600",
+        "GOOGL_2. high": "160.5000",
+        "GOOGL_3. low": "158.5950",
+        "GOOGL_4. close": "159.8100",
+        "GOOGL_5. volume": "23677315"
+    },
+    {
+        "GOOGL_1. open": "159.0200",
+        "GOOGL_2. high": "160.5500",
+        "GOOGL_3. low": "158.3750",
+        "GOOGL_4. close": "159.3200",
+        "GOOGL_5. volume": "20715612"
+    },
+    {
+        "GOOGL_1. open": "157.3100",
+        "GOOGL_2. high": "158.2500",
+        "GOOGL_3. low": "156.6000",
+        "GOOGL_4. close": "158.0600",
+        "GOOGL_5. volume": "18379775"
+    },
+    {
+        "GOOGL_1. open": "155.4300",
+        "GOOGL_2. high": "158.3800",
+        "GOOGL_3. low": "155.2100",
+        "GOOGL_4. close": "157.4600",
+        "GOOGL_5. volume": "29591152"
+    },
+    {
+        "GOOGL_1. open": "153.8000",
+        "GOOGL_2. high": "154.8200",
+        "GOOGL_3. low": "152.6500",
+        "GOOGL_4. close": "154.6900",
+        "GOOGL_5. volume": "29695048"
+    },
+    {
+        "GOOGL_1. open": "149.9200",
+        "GOOGL_2. high": "151.5000",
+        "GOOGL_3. low": "147.5200",
+        "GOOGL_4. close": "151.1600",
+        "GOOGL_5. volume": "29607693"
+    },
+    {
+        "GOOGL_1. open": "150.4500",
+        "GOOGL_2. high": "151.2700",
+        "GOOGL_3. low": "148.3400",
+        "GOOGL_4. close": "148.6600",
+        "GOOGL_5. volume": "31118765"
+    },
+    {
+        "GOOGL_1. open": "152.5100",
+        "GOOGL_2. high": "153.4000",
+        "GOOGL_3. low": "147.2150",
+        "GOOGL_4. close": "148.7100",
+        "GOOGL_5. volume": "39260451"
+    },
+    {
+        "GOOGL_1. open": "157.3000",
+        "GOOGL_2. high": "157.8300",
+        "GOOGL_3. low": "150.5500",
+        "GOOGL_4. close": "150.9200",
+        "GOOGL_5. volume": "37912130"
+    },
+    {
+        "GOOGL_1. open": "156.3000",
+        "GOOGL_2. high": "159.4500",
+        "GOOGL_3. low": "155.9805",
+        "GOOGL_4. close": "157.2400",
+        "GOOGL_5. volume": "18688747"
+    },
+    {
+        "GOOGL_1. open": "156.6550",
+        "GOOGL_2. high": "159.0000",
+        "GOOGL_3. low": "155.9616",
+        "GOOGL_4. close": "156.4500",
+        "GOOGL_5. volume": "19197458"
+    },
+    {
+        "GOOGL_1. open": "161.7200",
+        "GOOGL_2. high": "161.8500",
+        "GOOGL_3. low": "156.4800",
+        "GOOGL_4. close": "157.3600",
+        "GOOGL_5. volume": "38945301"
+    },
+    {
+        "GOOGL_1. open": "162.6150",
+        "GOOGL_2. high": "163.6600",
+        "GOOGL_3. low": "161.6925",
+        "GOOGL_4. close": "163.3800",
+        "GOOGL_5. volume": "22123811"
+    },
+    {
+        "GOOGL_1. open": "164.3100",
+        "GOOGL_2. high": "165.9700",
+        "GOOGL_3. low": "160.2500",
+        "GOOGL_4. close": "161.7800",
+        "GOOGL_5. volume": "19699767"
+    },
+    {
+        "GOOGL_1. open": "165.0350",
+        "GOOGL_2. high": "165.6000",
+        "GOOGL_3. low": "161.5284",
+        "GOOGL_4. close": "162.8500",
+        "GOOGL_5. volume": "16407444"
+    },
+    {
+        "GOOGL_1. open": "165.8350",
+        "GOOGL_2. high": "166.4426",
+        "GOOGL_3. low": "164.4600",
+        "GOOGL_4. close": "164.6800",
+        "GOOGL_5. volume": "11821941"
+    },
+    {
+        "GOOGL_1. open": "166.3800",
+        "GOOGL_2. high": "167.5500",
+        "GOOGL_3. low": "164.4550",
+        "GOOGL_4. close": "166.1600",
+        "GOOGL_5. volume": "14190417"
+    },
+    {
+        "GOOGL_1. open": "164.7200",
+        "GOOGL_2. high": "166.1800",
+        "GOOGL_3. low": "163.8300",
+        "GOOGL_4. close": "165.6200",
+        "GOOGL_5. volume": "13955741"
+    },
+    {
+        "GOOGL_1. open": "167.2600",
+        "GOOGL_2. high": "167.5900",
+        "GOOGL_3. low": "163.3100",
+        "GOOGL_4. close": "163.8000",
+        "GOOGL_5. volume": "22493275"
+    },
+    {
+        "GOOGL_1. open": "165.1500",
+        "GOOGL_2. high": "166.8500",
+        "GOOGL_3. low": "164.6700",
+        "GOOGL_4. close": "165.8500",
+        "GOOGL_5. volume": "22901997"
+    },
+    {
+        "GOOGL_1. open": "166.9000",
+        "GOOGL_2. high": "168.6400",
+        "GOOGL_3. low": "166.8200",
+        "GOOGL_4. close": "167.1800",
+        "GOOGL_5. volume": "18341533"
+    },
+    {
+        "GOOGL_1. open": "165.2800",
+        "GOOGL_2. high": "166.6900",
+        "GOOGL_3. low": "164.2600",
+        "GOOGL_4. close": "166.6700",
+        "GOOGL_5. volume": "22416185"
+    },
+    {
+        "GOOGL_1. open": "161.4700",
+        "GOOGL_2. high": "165.0600",
+        "GOOGL_3. low": "161.1300",
+        "GOOGL_4. close": "162.9600",
+        "GOOGL_5. volume": "24208647"
+    },
+    {
+        "GOOGL_1. open": "160.5000",
+        "GOOGL_2. high": "161.6350",
+        "GOOGL_3. low": "159.6100",
+        "GOOGL_4. close": "161.3000",
+        "GOOGL_5. volume": "31524252"
+    },
+    {
+        "GOOGL_1. open": "162.4000",
+        "GOOGL_2. high": "163.2200",
+        "GOOGL_3. low": "157.7100",
+        "GOOGL_4. close": "160.3700",
+        "GOOGL_5. volume": "40591126"
+    },
+    {
+        "GOOGL_1. open": "163.4100",
+        "GOOGL_2. high": "164.7300",
+        "GOOGL_3. low": "162.9700",
+        "GOOGL_4. close": "164.1600",
+        "GOOGL_5. volume": "18551690"
+    },
+    {
+        "GOOGL_1. open": "164.3500",
+        "GOOGL_2. high": "164.9000",
+        "GOOGL_3. low": "161.8400",
+        "GOOGL_4. close": "162.2900",
+        "GOOGL_5. volume": "15895286"
+    },
+    {
+        "GOOGL_1. open": "160.0100",
+        "GOOGL_2. high": "163.7900",
+        "GOOGL_3. low": "159.0600",
+        "GOOGL_4. close": "163.6700",
+        "GOOGL_5. volume": "28602285"
+    },
+    {
+        "GOOGL_1. open": "160.5100",
+        "GOOGL_2. high": "163.6900",
+        "GOOGL_3. low": "160.2100",
+        "GOOGL_4. close": "162.0300",
+        "GOOGL_5. volume": "25578839"
+    },
+    {
+        "GOOGL_1. open": "161.2500",
+        "GOOGL_2. high": "162.9800",
+        "GOOGL_3. low": "158.4700",
+        "GOOGL_4. close": "158.9400",
+        "GOOGL_5. volume": "25138573"
+    },
+    {
+        "GOOGL_1. open": "159.3300",
+        "GOOGL_2. high": "160.5700",
+        "GOOGL_3. low": "156.4100",
+        "GOOGL_4. close": "158.2900",
+        "GOOGL_5. volume": "49004561"
+    },
+    {
+        "GOOGL_1. open": "155.5000",
+        "GOOGL_2. high": "164.4300",
+        "GOOGL_3. low": "154.9300",
+        "GOOGL_4. close": "159.2500",
+        "GOOGL_5. volume": "53630673"
+    },
+    {
+        "GOOGL_1. open": "166.4400",
+        "GOOGL_2. high": "168.5100",
+        "GOOGL_3. low": "164.6700",
+        "GOOGL_4. close": "166.6600",
+        "GOOGL_5. volume": "29130102"
+    },
+    {
+        "GOOGL_1. open": "170.2500",
+        "GOOGL_2. high": "174.0500",
+        "GOOGL_3. low": "168.8800",
+        "GOOGL_4. close": "170.7600",
+        "GOOGL_5. volume": "24531392"
+    },
+    {
+        "GOOGL_1. open": "173.2400",
+        "GOOGL_2. high": "174.2450",
+        "GOOGL_3. low": "170.0100",
+        "GOOGL_4. close": "171.5400",
+        "GOOGL_5. volume": "25729090"
+    },
+    {
+        "GOOGL_1. open": "170.2400",
+        "GOOGL_2. high": "171.2299",
+        "GOOGL_3. low": "168.4400",
+        "GOOGL_4. close": "170.2900",
+        "GOOGL_5. volume": "18959686"
+    },
+    {
+        "GOOGL_1. open": "168.8300",
+        "GOOGL_2. high": "170.4300",
+        "GOOGL_3. low": "167.9900",
+        "GOOGL_4. close": "169.5300",
+        "GOOGL_5. volume": "20293822"
+    },
+    {
+        "GOOGL_1. open": "167.1500",
+        "GOOGL_2. high": "168.0900",
+        "GOOGL_3. low": "164.0600",
+        "GOOGL_4. close": "167.0000",
+        "GOOGL_5. volume": "41336886"
+    },
+    {
+        "GOOGL_1. open": "172.5200",
+        "GOOGL_2. high": "173.4200",
+        "GOOGL_3. low": "167.1900",
+        "GOOGL_4. close": "167.2800",
+        "GOOGL_5. volume": "44851973"
+    },
+    {
+        "GOOGL_1. open": "173.6000",
+        "GOOGL_2. high": "176.1900",
+        "GOOGL_3. low": "171.8200",
+        "GOOGL_4. close": "172.6300",
+        "GOOGL_5. volume": "49585203"
+    },
+    {
+        "GOOGL_1. open": "182.0500",
+        "GOOGL_2. high": "183.6100",
+        "GOOGL_3. low": "181.5400",
+        "GOOGL_4. close": "181.7900",
+        "GOOGL_5. volume": "36352714"
+    },
+    {
+        "GOOGL_1. open": "180.5900",
+        "GOOGL_2. high": "182.7000",
+        "GOOGL_3. low": "180.2300",
+        "GOOGL_4. close": "181.6700",
+        "GOOGL_5. volume": "24100345"
+    },
+    {
+        "GOOGL_1. open": "178.8800",
+        "GOOGL_2. high": "180.2900",
+        "GOOGL_3. low": "177.1300",
+        "GOOGL_4. close": "177.6600",
+        "GOOGL_5. volume": "18881885"
+    },
+    {
+        "GOOGL_1. open": "181.9300",
+        "GOOGL_2. high": "182.5000",
+        "GOOGL_3. low": "176.4700",
+        "GOOGL_4. close": "177.6900",
+        "GOOGL_5. volume": "25315727"
+    },
+    {
+        "GOOGL_1. open": "182.9650",
+        "GOOGL_2. high": "183.5500",
+        "GOOGL_3. low": "179.9000",
+        "GOOGL_4. close": "181.0200",
+        "GOOGL_5. volume": "20734071"
+    },
+    {
+        "GOOGL_1. open": "187.3600",
+        "GOOGL_2. high": "188.6800",
+        "GOOGL_3. low": "183.3736",
+        "GOOGL_4. close": "183.9200",
+        "GOOGL_5. volume": "18290722"
+    },
+    {
+        "GOOGL_1. open": "184.9200",
+        "GOOGL_2. high": "188.2400",
+        "GOOGL_3. low": "184.9200",
+        "GOOGL_4. close": "186.5300",
+        "GOOGL_5. volume": "16474043"
+    },
+    {
+        "GOOGL_1. open": "185.0800",
+        "GOOGL_2. high": "187.1100",
+        "GOOGL_3. low": "184.4900",
+        "GOOGL_4. close": "185.0700",
+        "GOOGL_5. volume": "22898406"
+    },
+    {
+        "GOOGL_1. open": "189.8450",
+        "GOOGL_2. high": "190.8600",
+        "GOOGL_3. low": "185.0800",
+        "GOOGL_4. close": "185.5700",
+        "GOOGL_5. volume": "25625784"
+    },
+    {
+        "GOOGL_1. open": "189.1500",
+        "GOOGL_2. high": "191.7500",
+        "GOOGL_3. low": "189.0300",
+        "GOOGL_4. close": "191.1800",
+        "GOOGL_5. volume": "15952454"
+    },
+    {
+        "GOOGL_1. open": "190.3100",
+        "GOOGL_2. high": "191.3600",
+        "GOOGL_3. low": "188.7200",
+        "GOOGL_4. close": "188.9800",
+        "GOOGL_5. volume": "15141312"
+    },
+    {
+        "GOOGL_1. open": "189.8950",
+        "GOOGL_2. high": "190.1700",
+        "GOOGL_3. low": "187.7800",
+        "GOOGL_4. close": "189.0300",
+        "GOOGL_5. volume": "21035886"
+    },
+    {
+        "GOOGL_1. open": "185.8550",
+        "GOOGL_2. high": "190.8600",
+        "GOOGL_3. low": "185.8000",
+        "GOOGL_4. close": "190.6000",
+        "GOOGL_5. volume": "20967450"
+    },
+    {
+        "GOOGL_1. open": "184.8500",
+        "GOOGL_2. high": "186.0900",
+        "GOOGL_3. low": "184.0000",
+        "GOOGL_4. close": "185.8200",
+        "GOOGL_5. volume": "10242126"
+    },
+    {
+        "GOOGL_1. open": "182.0500",
+        "GOOGL_2. high": "185.5700",
+        "GOOGL_3. low": "181.5600",
+        "GOOGL_4. close": "185.2400",
+        "GOOGL_5. volume": "17372485"
+    },
+    {
+        "GOOGL_1. open": "183.0300",
+        "GOOGL_2. high": "183.8800",
+        "GOOGL_3. low": "181.3000",
+        "GOOGL_4. close": "182.9900",
+        "GOOGL_5. volume": "16006128"
+    },
+    {
+        "GOOGL_1. open": "184.3200",
+        "GOOGL_2. high": "185.1300",
+        "GOOGL_3. low": "181.9600",
+        "GOOGL_4. close": "182.1500",
+        "GOOGL_5. volume": "29156644"
+    },
+    {
+        "GOOGL_1. open": "184.1800",
+        "GOOGL_2. high": "186.0500",
+        "GOOGL_3. low": "184.0200",
+        "GOOGL_4. close": "185.4100",
+        "GOOGL_5. volume": "18848884"
+    },
+    {
+        "GOOGL_1. open": "182.6300",
+        "GOOGL_2. high": "184.5100",
+        "GOOGL_3. low": "182.4800",
+        "GOOGL_4. close": "183.8800",
+        "GOOGL_5. volume": "19838972"
+    },
+    {
+        "GOOGL_1. open": "179.6200",
+        "GOOGL_2. high": "184.2900",
+        "GOOGL_3. low": "179.4200",
+        "GOOGL_4. close": "184.0300",
+        "GOOGL_5. volume": "23235589"
+    },
+    {
+        "GOOGL_1. open": "180.1600",
+        "GOOGL_2. high": "180.8900",
+        "GOOGL_3. low": "178.6700",
+        "GOOGL_4. close": "179.2200",
+        "GOOGL_5. volume": "18298012"
+    },
+    {
+        "GOOGL_1. open": "177.0000",
+        "GOOGL_2. high": "180.8500",
+        "GOOGL_3. low": "176.6100",
+        "GOOGL_4. close": "179.6300",
+        "GOOGL_5. volume": "58582743"
+    },
+    {
+        "GOOGL_1. open": "175.3700",
+        "GOOGL_2. high": "177.2900",
+        "GOOGL_3. low": "174.9900",
+        "GOOGL_4. close": "176.3000",
+        "GOOGL_5. volume": "20160085"
+    },
+    {
+        "GOOGL_1. open": "177.1400",
+        "GOOGL_2. high": "177.3850",
+        "GOOGL_3. low": "174.1042",
+        "GOOGL_4. close": "175.0900",
+        "GOOGL_5. volume": "21869857"
+    },
+    {
+        "GOOGL_1. open": "175.4600",
+        "GOOGL_2. high": "178.3600",
+        "GOOGL_3. low": "174.8100",
+        "GOOGL_4. close": "177.2400",
+        "GOOGL_5. volume": "19618497"
+    },
+    {
+        "GOOGL_1. open": "174.2200",
+        "GOOGL_2. high": "177.0623",
+        "GOOGL_3. low": "174.1500",
+        "GOOGL_4. close": "176.7900",
+        "GOOGL_5. volume": "18063555"
+    },
+    {
+        "GOOGL_1. open": "176.1100",
+        "GOOGL_2. high": "176.7400",
+        "GOOGL_3. low": "174.8800",
+        "GOOGL_4. close": "175.1600",
+        "GOOGL_5. volume": "20913299"
+    },
+    {
+        "GOOGL_1. open": "178.2500",
+        "GOOGL_2. high": "180.4100",
+        "GOOGL_3. low": "176.1100",
+        "GOOGL_4. close": "177.7900",
+        "GOOGL_5. volume": "27864737"
+    },
+    {
+        "GOOGL_1. open": "176.2200",
+        "GOOGL_2. high": "176.8400",
+        "GOOGL_3. low": "173.7701",
+        "GOOGL_4. close": "176.6200",
+        "GOOGL_5. volume": "21540582"
+    },
+    {
+        "GOOGL_1. open": "174.9700",
+        "GOOGL_2. high": "177.0600",
+        "GOOGL_3. low": "172.7600",
+        "GOOGL_4. close": "175.0100",
+        "GOOGL_5. volume": "23779218"
+    },
+    {
+        "GOOGL_1. open": "177.0500",
+        "GOOGL_2. high": "177.8700",
+        "GOOGL_3. low": "174.3000",
+        "GOOGL_4. close": "174.4600",
+        "GOOGL_5. volume": "19661399"
+    },
+    {
+        "GOOGL_1. open": "175.8950",
+        "GOOGL_2. high": "177.1500",
+        "GOOGL_3. low": "175.7500",
+        "GOOGL_4. close": "176.7300",
+        "GOOGL_5. volume": "23251013"
+    },
+    {
+        "GOOGL_1. open": "175.2000",
+        "GOOGL_2. high": "176.6450",
+        "GOOGL_3. low": "173.9339",
+        "GOOGL_4. close": "175.4100",
+        "GOOGL_5. volume": "22068519"
+    },
+    {
+        "GOOGL_1. open": "173.2800",
+        "GOOGL_2. high": "173.8450",
+        "GOOGL_3. low": "171.8900",
+        "GOOGL_4. close": "173.7900",
+        "GOOGL_5. volume": "26879596"
+    },
+    {
+        "GOOGL_1. open": "172.5400",
+        "GOOGL_2. high": "174.5250",
+        "GOOGL_3. low": "171.1600",
+        "GOOGL_4. close": "173.1700",
+        "GOOGL_5. volume": "27459118"
+    },
+    {
+        "GOOGL_1. open": "171.8600",
+        "GOOGL_2. high": "173.0600",
+        "GOOGL_3. low": "169.4400",
+        "GOOGL_4. close": "172.5000",
+        "GOOGL_5. volume": "37638876"
+    },
+    {
+        "GOOGL_1. open": "175.2000",
+        "GOOGL_2. high": "175.2200",
+        "GOOGL_3. low": "171.7900",
+        "GOOGL_4. close": "172.1100",
+        "GOOGL_5. volume": "22958677"
+    },
+    {
+        "GOOGL_1. open": "175.4300",
+        "GOOGL_2. high": "176.8360",
+        "GOOGL_3. low": "174.7200",
+        "GOOGL_4. close": "175.9000",
+        "GOOGL_5. volume": "23388693"
+    },
+    {
+        "GOOGL_1. open": "174.4500",
+        "GOOGL_2. high": "177.2700",
+        "GOOGL_3. low": "174.3650",
+        "GOOGL_4. close": "176.4000",
+        "GOOGL_5. volume": "20572157"
+    },
+    {
+        "GOOGL_1. open": "174.9800",
+        "GOOGL_2. high": "175.7700",
+        "GOOGL_3. low": "173.6500",
+        "GOOGL_4. close": "174.9900",
+        "GOOGL_5. volume": "16579438"
+    },
+    {
+        "GOOGL_1. open": "177.0700",
+        "GOOGL_2. high": "178.2500",
+        "GOOGL_3. low": "172.9500",
+        "GOOGL_4. close": "173.5500",
+        "GOOGL_5. volume": "21024935"
+    },
+    {
+        "GOOGL_1. open": "176.6440",
+        "GOOGL_2. high": "177.1500",
+        "GOOGL_3. low": "175.2100",
+        "GOOGL_4. close": "176.3800",
+        "GOOGL_5. volume": "17880042"
+    },
+    {
+        "GOOGL_1. open": "176.9000",
+        "GOOGL_2. high": "178.1500",
+        "GOOGL_3. low": "175.8100",
+        "GOOGL_4. close": "177.8500",
+        "GOOGL_5. volume": "16989369"
+    },
+    {
+        "GOOGL_1. open": "176.1920",
+        "GOOGL_2. high": "178.7700",
+        "GOOGL_3. low": "176.0800",
+        "GOOGL_4. close": "176.9200",
+        "GOOGL_5. volume": "22554400"
+    },
+    {
+        "GOOGL_1. open": "174.1800",
+        "GOOGL_2. high": "176.2650",
+        "GOOGL_3. low": "173.6900",
+        "GOOGL_4. close": "176.0600",
+        "GOOGL_5. volume": "24479262"
+    },
+    {
+        "GOOGL_1. open": "173.2900",
+        "GOOGL_2. high": "175.1150",
+        "GOOGL_3. low": "172.6900",
+        "GOOGL_4. close": "174.1800",
+        "GOOGL_5. volume": "27867947"
+    },
+    {
+        "GOOGL_1. open": "170.6300",
+        "GOOGL_2. high": "172.6500",
+        "GOOGL_3. low": "170.5100",
+        "GOOGL_4. close": "172.5100",
+        "GOOGL_5. volume": "26948370"
+    },
+    {
+        "GOOGL_1. open": "169.7700",
+        "GOOGL_2. high": "171.2500",
+        "GOOGL_3. low": "168.8000",
+        "GOOGL_4. close": "170.3400",
+        "GOOGL_5. volume": "25127138"
+    },
+    {
+        "GOOGL_1. open": "164.2600",
+        "GOOGL_2. high": "169.2800",
+        "GOOGL_3. low": "164.0000",
+        "GOOGL_4. close": "169.1400",
+        "GOOGL_5. volume": "31327602"
+    },
+    {
+        "GOOGL_1. open": "168.0250",
+        "GOOGL_2. high": "169.8500",
+        "GOOGL_3. low": "166.1900",
+        "GOOGL_4. close": "168.6500",
+        "GOOGL_5. volume": "29799931"
+    },
+    {
+        "GOOGL_1. open": "169.3900",
+        "GOOGL_2. high": "170.6900",
+        "GOOGL_3. low": "168.1800",
+        "GOOGL_4. close": "169.9600",
+        "GOOGL_5. volume": "15346700"
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "MSTR_1. open": "168.5200",
+        "MSTR_2. high": "169.4299",
+        "MSTR_3. low": "157.0200",
+        "MSTR_4. close": "162.6900",
+        "MSTR_5. volume": "14103324"
+    },
+    {
+        "MSTR_1. open": "168.6300",
+        "MSTR_2. high": "175.5064",
+        "MSTR_3. low": "167.3140",
+        "MSTR_4. close": "168.6000",
+        "MSTR_5. volume": "13443437"
+    },
+    {
+        "MSTR_1. open": "170.4800",
+        "MSTR_2. high": "179.6000",
+        "MSTR_3. low": "168.3050",
+        "MSTR_4. close": "176.2200",
+        "MSTR_5. volume": "17321178"
+    },
+    {
+        "MSTR_1. open": "157.6300",
+        "MSTR_2. high": "167.5100",
+        "MSTR_3. low": "156.3806",
+        "MSTR_4. close": "165.9800",
+        "MSTR_5. volume": "17068474"
+    },
+    {
+        "MSTR_1. open": "152.3000",
+        "MSTR_2. high": "157.8800",
+        "MSTR_3. low": "151.5000",
+        "MSTR_4. close": "151.9400",
+        "MSTR_5. volume": "7839376"
+    },
+    {
+        "MSTR_1. open": "150.1600",
+        "MSTR_2. high": "154.3300",
+        "MSTR_3. low": "146.7074",
+        "MSTR_4. close": "153.8800",
+        "MSTR_5. volume": "9365235"
+    },
+    {
+        "MSTR_1. open": "147.4800",
+        "MSTR_2. high": "151.5900",
+        "MSTR_3. low": "145.0149",
+        "MSTR_4. close": "149.9700",
+        "MSTR_5. volume": "10090260"
+    },
+    {
+        "MSTR_1. open": "144.3900",
+        "MSTR_2. high": "148.0300",
+        "MSTR_3. low": "141.6400",
+        "MSTR_4. close": "144.7800",
+        "MSTR_5. volume": "12332317"
+    },
+    {
+        "MSTR_1. open": "140.4500",
+        "MSTR_2. high": "148.9600",
+        "MSTR_3. low": "139.6200",
+        "MSTR_4. close": "144.6600",
+        "MSTR_5. volume": "20177336"
+    },
+    {
+        "MSTR_1. open": "130.4400",
+        "MSTR_2. high": "139.4900",
+        "MSTR_3. low": "128.5100",
+        "MSTR_4. close": "132.6700",
+        "MSTR_5. volume": "16345621"
+    },
+    {
+        "MSTR_1. open": "138.3700",
+        "MSTR_2. high": "140.1600",
+        "MSTR_3. low": "128.8209",
+        "MSTR_4. close": "131.2700",
+        "MSTR_5. volume": "21043391"
+    },
+    {
+        "MSTR_1. open": "137.0200",
+        "MSTR_2. high": "137.8800",
+        "MSTR_3. low": "132.6700",
+        "MSTR_4. close": "134.5300",
+        "MSTR_5. volume": "8765884"
+    },
+    {
+        "MSTR_1. open": "131.1000",
+        "MSTR_2. high": "143.0000",
+        "MSTR_3. low": "129.8400",
+        "MSTR_4. close": "141.4700",
+        "MSTR_5. volume": "12239123"
+    },
+    {
+        "MSTR_1. open": "129.0000",
+        "MSTR_2. high": "134.1000",
+        "MSTR_3. low": "127.2723",
+        "MSTR_4. close": "130.7700",
+        "MSTR_5. volume": "6052392"
+    },
+    {
+        "MSTR_1. open": "124.8050",
+        "MSTR_2. high": "131.0000",
+        "MSTR_3. low": "121.3000",
+        "MSTR_4. close": "129.2800",
+        "MSTR_5. volume": "8731203"
+    },
+    {
+        "MSTR_1. open": "123.0000",
+        "MSTR_2. high": "129.8200",
+        "MSTR_3. low": "121.5500",
+        "MSTR_4. close": "129.6400",
+        "MSTR_5. volume": "7738025"
+    },
+    {
+        "MSTR_1. open": "118.9300",
+        "MSTR_2. high": "125.2289",
+        "MSTR_3. low": "117.5003",
+        "MSTR_4. close": "124.8200",
+        "MSTR_5. volume": "9771186"
+    },
+    {
+        "MSTR_1. open": "122.9300",
+        "MSTR_2. high": "124.6900",
+        "MSTR_3. low": "113.6900",
+        "MSTR_4. close": "114.3000",
+        "MSTR_5. volume": "8795527"
+    },
+    {
+        "MSTR_1. open": "122.3500",
+        "MSTR_2. high": "126.8300",
+        "MSTR_3. low": "119.4300",
+        "MSTR_4. close": "119.5700",
+        "MSTR_5. volume": "6066645"
+    },
+    {
+        "MSTR_1. open": "120.2500",
+        "MSTR_2. high": "125.9800",
+        "MSTR_3. low": "117.9401",
+        "MSTR_4. close": "124.8500",
+        "MSTR_5. volume": "7913196"
+    },
+    {
+        "MSTR_1. open": "132.0000",
+        "MSTR_2. high": "132.7300",
+        "MSTR_3. low": "122.1900",
+        "MSTR_4. close": "122.3200",
+        "MSTR_5. volume": "8258810"
+    },
+    {
+        "MSTR_1. open": "134.0000",
+        "MSTR_2. high": "135.2499",
+        "MSTR_3. low": "128.3000",
+        "MSTR_4. close": "132.4200",
+        "MSTR_5. volume": "7802999"
+    },
+    {
+        "MSTR_1. open": "137.0000",
+        "MSTR_2. high": "139.4300",
+        "MSTR_3. low": "131.0000",
+        "MSTR_4. close": "132.5600",
+        "MSTR_5. volume": "8431380"
+    },
+    {
+        "MSTR_1. open": "138.1600",
+        "MSTR_2. high": "138.4000",
+        "MSTR_3. low": "130.7300",
+        "MSTR_4. close": "132.0900",
+        "MSTR_5. volume": "8860102"
+    },
+    {
+        "MSTR_1. open": "144.4800",
+        "MSTR_2. high": "145.2380",
+        "MSTR_3. low": "138.1900",
+        "MSTR_4. close": "140.0100",
+        "MSTR_5. volume": "10943128"
+    },
+    {
+        "MSTR_1. open": "148.1200",
+        "MSTR_2. high": "152.3500",
+        "MSTR_3. low": "146.6000",
+        "MSTR_4. close": "146.9000",
+        "MSTR_5. volume": "10418753"
+    },
+    {
+        "MSTR_1. open": "137.4000",
+        "MSTR_2. high": "151.8100",
+        "MSTR_3. low": "135.5100",
+        "MSTR_4. close": "150.0100",
+        "MSTR_5. volume": "17791304"
+    },
+    {
+        "MSTR_1. open": "141.3900",
+        "MSTR_2. high": "141.7800",
+        "MSTR_3. low": "133.6900",
+        "MSTR_4. close": "133.8100",
+        "MSTR_5. volume": "7963436"
+    },
+    {
+        "MSTR_1. open": "134.3400",
+        "MSTR_2. high": "142.5800",
+        "MSTR_3. low": "132.8700",
+        "MSTR_4. close": "141.4200",
+        "MSTR_5. volume": "11774541"
+    },
+    {
+        "MSTR_1. open": "139.7350",
+        "MSTR_2. high": "141.3600",
+        "MSTR_3. low": "130.6300",
+        "MSTR_4. close": "133.6900",
+        "MSTR_5. volume": "11274578"
+    },
+    {
+        "MSTR_1. open": "133.7000",
+        "MSTR_2. high": "137.4400",
+        "MSTR_3. low": "131.1600",
+        "MSTR_4. close": "135.3500",
+        "MSTR_5. volume": "6595737"
+    },
+    {
+        "MSTR_1. open": "133.2500",
+        "MSTR_2. high": "136.3200",
+        "MSTR_3. low": "126.5900",
+        "MSTR_4. close": "133.0400",
+        "MSTR_5. volume": "11360411"
+    },
+    {
+        "MSTR_1. open": "132.7000",
+        "MSTR_2. high": "139.0000",
+        "MSTR_3. low": "130.7300",
+        "MSTR_4. close": "131.9300",
+        "MSTR_5. volume": "10856852"
+    },
+    {
+        "MSTR_1. open": "136.3700",
+        "MSTR_2. high": "137.4000",
+        "MSTR_3. low": "129.3300",
+        "MSTR_4. close": "130.3700",
+        "MSTR_5. volume": "8535928"
+    },
+    {
+        "MSTR_1. open": "132.2800",
+        "MSTR_2. high": "140.0000",
+        "MSTR_3. low": "130.2600",
+        "MSTR_4. close": "135.3800",
+        "MSTR_5. volume": "8123111"
+    },
+    {
+        "MSTR_1. open": "133.4900",
+        "MSTR_2. high": "139.2129",
+        "MSTR_3. low": "129.2200",
+        "MSTR_4. close": "131.4600",
+        "MSTR_5. volume": "6932336"
+    },
+    {
+        "MSTR_1. open": "135.8900",
+        "MSTR_2. high": "136.6850",
+        "MSTR_3. low": "129.5500",
+        "MSTR_4. close": "135.3700",
+        "MSTR_5. volume": "7330433"
+    },
+    {
+        "MSTR_1. open": "130.2300",
+        "MSTR_2. high": "136.7600",
+        "MSTR_3. low": "128.0600",
+        "MSTR_4. close": "135.9900",
+        "MSTR_5. volume": "10378305"
+    },
+    {
+        "MSTR_1. open": "1408.7800",
+        "MSTR_2. high": "1421.5800",
+        "MSTR_3. low": "1240.1300",
+        "MSTR_4. close": "1246.8500",
+        "MSTR_5. volume": "1093385"
+    },
+    {
+        "MSTR_1. open": "1326.0000",
+        "MSTR_2. high": "1394.9400",
+        "MSTR_3. low": "1262.1800",
+        "MSTR_4. close": "1369.2100",
+        "MSTR_5. volume": "1226023"
+    },
+    {
+        "MSTR_1. open": "1051.6500",
+        "MSTR_2. high": "1354.2699",
+        "MSTR_3. low": "1024.0200",
+        "MSTR_4. close": "1309.0000",
+        "MSTR_5. volume": "2267755"
+    },
+    {
+        "MSTR_1. open": "1485.8100",
+        "MSTR_2. high": "1591.4000",
+        "MSTR_3. low": "1417.1000",
+        "MSTR_4. close": "1447.9900",
+        "MSTR_5. volume": "1412619"
+    },
+    {
+        "MSTR_1. open": "1615.0000",
+        "MSTR_2. high": "1634.3600",
+        "MSTR_3. low": "1482.0200",
+        "MSTR_4. close": "1511.8100",
+        "MSTR_5. volume": "1193000"
+    },
+    {
+        "MSTR_1. open": "1646.0300",
+        "MSTR_2. high": "1685.0000",
+        "MSTR_3. low": "1608.5515",
+        "MSTR_4. close": "1614.4400",
+        "MSTR_5. volume": "753381"
+    },
+    {
+        "MSTR_1. open": "1687.9900",
+        "MSTR_2. high": "1694.9999",
+        "MSTR_3. low": "1592.4901",
+        "MSTR_4. close": "1604.0700",
+        "MSTR_5. volume": "915480"
+    },
+    {
+        "MSTR_1. open": "1819.9900",
+        "MSTR_2. high": "1837.0000",
+        "MSTR_3. low": "1671.2749",
+        "MSTR_4. close": "1684.8500",
+        "MSTR_5. volume": "1280162"
+    },
+    {
+        "MSTR_1. open": "1700.0000",
+        "MSTR_2. high": "1776.9700",
+        "MSTR_3. low": "1686.0100",
+        "MSTR_4. close": "1752.7100",
+        "MSTR_5. volume": "1413767"
+    },
+    {
+        "MSTR_1. open": "1616.5000",
+        "MSTR_2. high": "1677.8550",
+        "MSTR_3. low": "1507.6600",
+        "MSTR_4. close": "1606.4700",
+        "MSTR_5. volume": "1477233"
+    },
+    {
+        "MSTR_1. open": "1750.0000",
+        "MSTR_2. high": "1769.5200",
+        "MSTR_3. low": "1667.0200",
+        "MSTR_4. close": "1672.6900",
+        "MSTR_5. volume": "1377377"
+    },
+    {
+        "MSTR_1. open": "1763.9900",
+        "MSTR_2. high": "1798.0000",
+        "MSTR_3. low": "1715.0201",
+        "MSTR_4. close": "1721.7700",
+        "MSTR_5. volume": "1074661"
+    },
+    {
+        "MSTR_1. open": "1784.0200",
+        "MSTR_2. high": "1810.6621",
+        "MSTR_3. low": "1736.1300",
+        "MSTR_4. close": "1800.0900",
+        "MSTR_5. volume": "1539112"
+    },
+    {
+        "MSTR_1. open": "1573.4000",
+        "MSTR_2. high": "1785.0000",
+        "MSTR_3. low": "1565.0001",
+        "MSTR_4. close": "1778.5000",
+        "MSTR_5. volume": "2045826"
+    },
+    {
+        "MSTR_1. open": "1633.9000",
+        "MSTR_2. high": "1637.0000",
+        "MSTR_3. low": "1516.2500",
+        "MSTR_4. close": "1555.1600",
+        "MSTR_5. volume": "1023633"
+    },
+    {
+        "MSTR_1. open": "1611.0000",
+        "MSTR_2. high": "1674.0799",
+        "MSTR_3. low": "1530.0000",
+        "MSTR_4. close": "1590.0000",
+        "MSTR_5. volume": "1721167"
+    },
+    {
+        "MSTR_1. open": "1615.0000",
+        "MSTR_2. high": "1675.7840",
+        "MSTR_3. low": "1576.3950",
+        "MSTR_4. close": "1664.3000",
+        "MSTR_5. volume": "1580962"
+    },
+    {
+        "MSTR_1. open": "1524.0000",
+        "MSTR_2. high": "1638.9999",
+        "MSTR_3. low": "1492.4254",
+        "MSTR_4. close": "1611.2800",
+        "MSTR_5. volume": "2467083"
+    },
+    {
+        "MSTR_1. open": "1339.2000",
+        "MSTR_2. high": "1435.4044",
+        "MSTR_3. low": "1324.1900",
+        "MSTR_4. close": "1396.7600",
+        "MSTR_5. volume": "1064083"
+    },
+    {
+        "MSTR_1. open": "1396.0000",
+        "MSTR_2. high": "1432.0000",
+        "MSTR_3. low": "1329.2350",
+        "MSTR_4. close": "1358.5600",
+        "MSTR_5. volume": "1354893"
+    },
+    {
+        "MSTR_1. open": "1319.7000",
+        "MSTR_2. high": "1345.0000",
+        "MSTR_3. low": "1296.0000",
+        "MSTR_4. close": "1305.7200",
+        "MSTR_5. volume": "638729"
+    },
+    {
+        "MSTR_1. open": "1313.8800",
+        "MSTR_2. high": "1320.0000",
+        "MSTR_3. low": "1278.0850",
+        "MSTR_4. close": "1301.7700",
+        "MSTR_5. volume": "896851"
+    },
+    {
+        "MSTR_1. open": "1314.5300",
+        "MSTR_2. high": "1325.0000",
+        "MSTR_3. low": "1258.7817",
+        "MSTR_4. close": "1290.5800",
+        "MSTR_5. volume": "873639"
+    },
+    {
+        "MSTR_1. open": "1215.5000",
+        "MSTR_2. high": "1299.1700",
+        "MSTR_3. low": "1202.3200",
+        "MSTR_4. close": "1281.7200",
+        "MSTR_5. volume": "1502908"
+    },
+    {
+        "MSTR_1. open": "1298.0000",
+        "MSTR_2. high": "1328.0000",
+        "MSTR_3. low": "1273.4707",
+        "MSTR_4. close": "1302.0900",
+        "MSTR_5. volume": "665940"
+    },
+    {
+        "MSTR_1. open": "1365.5100",
+        "MSTR_2. high": "1384.4050",
+        "MSTR_3. low": "1306.5700",
+        "MSTR_4. close": "1320.1900",
+        "MSTR_5. volume": "922911"
+    },
+    {
+        "MSTR_1. open": "1410.0000",
+        "MSTR_2. high": "1435.9500",
+        "MSTR_3. low": "1363.0800",
+        "MSTR_4. close": "1365.9700",
+        "MSTR_5. volume": "1412932"
+    },
+    {
+        "MSTR_1. open": "1516.4200",
+        "MSTR_2. high": "1519.0000",
+        "MSTR_3. low": "1367.0200",
+        "MSTR_4. close": "1377.4800",
+        "MSTR_5. volume": "3411349"
+    },
+    {
+        "MSTR_1. open": "1485.0000",
+        "MSTR_2. high": "1538.9999",
+        "MSTR_3. low": "1463.5000",
+        "MSTR_4. close": "1525.4000",
+        "MSTR_5. volume": "930767"
+    },
+    {
+        "MSTR_1. open": "1472.2900",
+        "MSTR_2. high": "1505.0150",
+        "MSTR_3. low": "1445.0000",
+        "MSTR_4. close": "1457.7300",
+        "MSTR_5. volume": "750175"
+    },
+    {
+        "MSTR_1. open": "1413.7700",
+        "MSTR_2. high": "1499.0000",
+        "MSTR_3. low": "1393.3906",
+        "MSTR_4. close": "1495.7400",
+        "MSTR_5. volume": "1362797"
+    },
+    {
+        "MSTR_1. open": "1398.0000",
+        "MSTR_2. high": "1448.8997",
+        "MSTR_3. low": "1325.5414",
+        "MSTR_4. close": "1372.1500",
+        "MSTR_5. volume": "1608074"
+    },
+    {
+        "MSTR_1. open": "1420.0000",
+        "MSTR_2. high": "1491.0500",
+        "MSTR_3. low": "1409.0200",
+        "MSTR_4. close": "1483.7600",
+        "MSTR_5. volume": "1149463"
+    },
+    {
+        "MSTR_1. open": "1482.1100",
+        "MSTR_2. high": "1505.5900",
+        "MSTR_3. low": "1422.0600",
+        "MSTR_4. close": "1465.4000",
+        "MSTR_5. volume": "909760"
+    },
+    {
+        "MSTR_1. open": "1457.9300",
+        "MSTR_2. high": "1510.9500",
+        "MSTR_3. low": "1446.0000",
+        "MSTR_4. close": "1469.4300",
+        "MSTR_5. volume": "893368"
+    },
+    {
+        "MSTR_1. open": "1499.8000",
+        "MSTR_2. high": "1569.0100",
+        "MSTR_3. low": "1421.1687",
+        "MSTR_4. close": "1507.2600",
+        "MSTR_5. volume": "1207636"
+    },
+    {
+        "MSTR_1. open": "1505.0000",
+        "MSTR_2. high": "1538.0000",
+        "MSTR_3. low": "1461.5100",
+        "MSTR_4. close": "1495.5400",
+        "MSTR_5. volume": "1379009"
+    },
+    {
+        "MSTR_1. open": "1563.3000",
+        "MSTR_2. high": "1573.7600",
+        "MSTR_3. low": "1441.0100",
+        "MSTR_4. close": "1483.8800",
+        "MSTR_5. volume": "2110766"
+    },
+    {
+        "MSTR_1. open": "1620.0000",
+        "MSTR_2. high": "1692.7100",
+        "MSTR_3. low": "1591.7650",
+        "MSTR_4. close": "1603.6700",
+        "MSTR_5. volume": "1368125"
+    },
+    {
+        "MSTR_1. open": "1542.0000",
+        "MSTR_2. high": "1564.1500",
+        "MSTR_3. low": "1486.6000",
+        "MSTR_4. close": "1555.4900",
+        "MSTR_5. volume": "1141182"
+    },
+    {
+        "MSTR_1. open": "1575.0100",
+        "MSTR_2. high": "1647.7600",
+        "MSTR_3. low": "1560.2903",
+        "MSTR_4. close": "1599.9200",
+        "MSTR_5. volume": "726460"
+    },
+    {
+        "MSTR_1. open": "1671.0200",
+        "MSTR_2. high": "1717.7000",
+        "MSTR_3. low": "1585.0000",
+        "MSTR_4. close": "1596.2000",
+        "MSTR_5. volume": "1262688"
+    },
+    {
+        "MSTR_1. open": "1698.5900",
+        "MSTR_2. high": "1734.6977",
+        "MSTR_3. low": "1647.0500",
+        "MSTR_4. close": "1656.6300",
+        "MSTR_5. volume": "1162291"
+    },
+    {
+        "MSTR_1. open": "1675.0000",
+        "MSTR_2. high": "1717.8400",
+        "MSTR_3. low": "1636.2401",
+        "MSTR_4. close": "1694.6900",
+        "MSTR_5. volume": "1095585"
+    },
+    {
+        "MSTR_1. open": "1617.4200",
+        "MSTR_2. high": "1697.0000",
+        "MSTR_3. low": "1615.0000",
+        "MSTR_4. close": "1638.7700",
+        "MSTR_5. volume": "1322951"
+    },
+    {
+        "MSTR_1. open": "1601.0000",
+        "MSTR_2. high": "1656.0000",
+        "MSTR_3. low": "1560.4166",
+        "MSTR_4. close": "1627.4100",
+        "MSTR_5. volume": "1122236"
+    },
+    {
+        "MSTR_1. open": "1597.0000",
+        "MSTR_2. high": "1614.8200",
+        "MSTR_3. low": "1442.0000",
+        "MSTR_4. close": "1524.4900",
+        "MSTR_5. volume": "2215356"
+    },
+    {
+        "MSTR_1. open": "1653.0000",
+        "MSTR_2. high": "1714.9900",
+        "MSTR_3. low": "1531.9550",
+        "MSTR_4. close": "1541.0000",
+        "MSTR_5. volume": "1477645"
+    },
+    {
+        "MSTR_1. open": "1650.0000",
+        "MSTR_2. high": "1659.0700",
+        "MSTR_3. low": "1611.1800",
+        "MSTR_4. close": "1618.7000",
+        "MSTR_5. volume": "734425"
+    },
+    {
+        "MSTR_1. open": "1650.0000",
+        "MSTR_2. high": "1691.5500",
+        "MSTR_3. low": "1610.0201",
+        "MSTR_4. close": "1675.3500",
+        "MSTR_5. volume": "1079936"
+    },
+    {
+        "MSTR_1. open": "1540.0000",
+        "MSTR_2. high": "1684.9950",
+        "MSTR_3. low": "1528.0000",
+        "MSTR_4. close": "1684.8400",
+        "MSTR_5. volume": "1206856"
+    },
+    {
+        "MSTR_1. open": "1669.2100",
+        "MSTR_2. high": "1670.0000",
+        "MSTR_3. low": "1530.3257",
+        "MSTR_4. close": "1544.0700",
+        "MSTR_5. volume": "1158811"
+    },
+    {
+        "MSTR_1. open": "1663.0000",
+        "MSTR_2. high": "1718.0000",
+        "MSTR_3. low": "1620.1500",
+        "MSTR_4. close": "1647.0000",
+        "MSTR_5. volume": "1033930"
+    },
+    {
+        "MSTR_1. open": "1730.0000",
+        "MSTR_2. high": "1740.0000",
+        "MSTR_3. low": "1645.0000",
+        "MSTR_4. close": "1655.4200",
+        "MSTR_5. volume": "1297751"
+    },
+    {
+        "MSTR_1. open": "1597.0000",
+        "MSTR_2. high": "1728.9600",
+        "MSTR_3. low": "1551.4200",
+        "MSTR_4. close": "1727.2400",
+        "MSTR_5. volume": "1671697"
+    },
+    {
+        "MSTR_1. open": "1500.9800",
+        "MSTR_2. high": "1584.9999",
+        "MSTR_3. low": "1469.0000",
+        "MSTR_4. close": "1584.5000",
+        "MSTR_5. volume": "1652932"
+    },
+    {
+        "MSTR_1. open": "1494.1000",
+        "MSTR_2. high": "1518.9000",
+        "MSTR_3. low": "1435.4500",
+        "MSTR_4. close": "1439.9800",
+        "MSTR_5. volume": "1365555"
+    },
+    {
+        "MSTR_1. open": "1379.6000",
+        "MSTR_2. high": "1520.3400",
+        "MSTR_3. low": "1351.0900",
+        "MSTR_4. close": "1503.4700",
+        "MSTR_5. volume": "2058643"
+    },
+    {
+        "MSTR_1. open": "1226.4800",
+        "MSTR_2. high": "1298.6900",
+        "MSTR_3. low": "1226.4800",
+        "MSTR_4. close": "1297.6300",
+        "MSTR_5. volume": "926786"
+    },
+    {
+        "MSTR_1. open": "1217.9400",
+        "MSTR_2. high": "1264.1512",
+        "MSTR_3. low": "1203.0000",
+        "MSTR_4. close": "1245.9600",
+        "MSTR_5. volume": "875725"
+    },
+    {
+        "MSTR_1. open": "1289.9900",
+        "MSTR_2. high": "1301.9900",
+        "MSTR_3. low": "1178.5300",
+        "MSTR_4. close": "1180.4800",
+        "MSTR_5. volume": "1403844"
+    },
+    {
+        "MSTR_1. open": "1230.0000",
+        "MSTR_2. high": "1303.0000",
+        "MSTR_3. low": "1200.9900",
+        "MSTR_4. close": "1263.6400",
+        "MSTR_5. volume": "1053370"
+    }
+]

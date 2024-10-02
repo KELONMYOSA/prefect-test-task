@@ -1,0 +1,702 @@
+[
+    {
+        "ORCL_1. open": "170.2200",
+        "ORCL_2. high": "170.5100",
+        "ORCL_3. low": "165.9700",
+        "ORCL_4. close": "167.1600",
+        "ORCL_5. volume": "7595053"
+    },
+    {
+        "ORCL_1. open": "169.5000",
+        "ORCL_2. high": "170.5200",
+        "ORCL_3. low": "166.4500",
+        "ORCL_4. close": "170.4000",
+        "ORCL_5. volume": "10218973"
+    },
+    {
+        "ORCL_1. open": "168.0900",
+        "ORCL_2. high": "169.1098",
+        "ORCL_3. low": "166.5100",
+        "ORCL_4. close": "168.7400",
+        "ORCL_5. volume": "8974377"
+    },
+    {
+        "ORCL_1. open": "167.6500",
+        "ORCL_2. high": "168.3600",
+        "ORCL_3. low": "166.4800",
+        "ORCL_4. close": "168.1000",
+        "ORCL_5. volume": "7096842"
+    },
+    {
+        "ORCL_1. open": "167.6900",
+        "ORCL_2. high": "168.7500",
+        "ORCL_3. low": "165.6600",
+        "ORCL_4. close": "166.2800",
+        "ORCL_5. volume": "7142437"
+    },
+    {
+        "ORCL_1. open": "165.7400",
+        "ORCL_2. high": "166.1000",
+        "ORCL_3. low": "163.9200",
+        "ORCL_4. close": "165.8000",
+        "ORCL_5. volume": "6155076"
+    },
+    {
+        "ORCL_1. open": "167.2250",
+        "ORCL_2. high": "167.3300",
+        "ORCL_3. low": "164.2600",
+        "ORCL_4. close": "165.9500",
+        "ORCL_5. volume": "7916081"
+    },
+    {
+        "ORCL_1. open": "167.1300",
+        "ORCL_2. high": "168.8300",
+        "ORCL_3. low": "166.6000",
+        "ORCL_4. close": "168.0000",
+        "ORCL_5. volume": "12187736"
+    },
+    {
+        "ORCL_1. open": "167.2500",
+        "ORCL_2. high": "168.1600",
+        "ORCL_3. low": "164.5100",
+        "ORCL_4. close": "167.5900",
+        "ORCL_5. volume": "10075884"
+    },
+    {
+        "ORCL_1. open": "167.6200",
+        "ORCL_2. high": "167.6200",
+        "ORCL_3. low": "163.7300",
+        "ORCL_4. close": "164.5300",
+        "ORCL_5. volume": "12274414"
+    },
+    {
+        "ORCL_1. open": "170.2800",
+        "ORCL_2. high": "170.6400",
+        "ORCL_3. low": "166.7700",
+        "ORCL_4. close": "167.4700",
+        "ORCL_5. volume": "12580114"
+    },
+    {
+        "ORCL_1. open": "164.9900",
+        "ORCL_2. high": "173.9900",
+        "ORCL_3. low": "164.5100",
+        "ORCL_4. close": "170.3300",
+        "ORCL_5. volume": "27384374"
+    },
+    {
+        "ORCL_1. open": "173.7000",
+        "ORCL_2. high": "173.9350",
+        "ORCL_3. low": "161.0000",
+        "ORCL_4. close": "162.0300",
+        "ORCL_5. volume": "25727805"
+    },
+    {
+        "ORCL_1. open": "159.0400",
+        "ORCL_2. high": "162.3400",
+        "ORCL_3. low": "157.9000",
+        "ORCL_4. close": "161.3800",
+        "ORCL_5. volume": "16352048"
+    },
+    {
+        "ORCL_1. open": "156.7800",
+        "ORCL_2. high": "159.4400",
+        "ORCL_3. low": "154.8401",
+        "ORCL_4. close": "157.1800",
+        "ORCL_5. volume": "12630122"
+    },
+    {
+        "ORCL_1. open": "154.2300",
+        "ORCL_2. high": "160.5200",
+        "ORCL_3. low": "153.1200",
+        "ORCL_4. close": "155.8900",
+        "ORCL_5. volume": "37374210"
+    },
+    {
+        "ORCL_1. open": "142.4900",
+        "ORCL_2. high": "143.3000",
+        "ORCL_3. low": "139.5100",
+        "ORCL_4. close": "139.8900",
+        "ORCL_5. volume": "20233428"
+    },
+    {
+        "ORCL_1. open": "143.7900",
+        "ORCL_2. high": "143.9400",
+        "ORCL_3. low": "139.4000",
+        "ORCL_4. close": "141.8100",
+        "ORCL_5. volume": "11154796"
+    },
+    {
+        "ORCL_1. open": "141.4000",
+        "ORCL_2. high": "143.2800",
+        "ORCL_3. low": "140.3050",
+        "ORCL_4. close": "142.6100",
+        "ORCL_5. volume": "8733246"
+    },
+    {
+        "ORCL_1. open": "138.4400",
+        "ORCL_2. high": "141.1009",
+        "ORCL_3. low": "137.9500",
+        "ORCL_4. close": "140.7500",
+        "ORCL_5. volume": "6224492"
+    },
+    {
+        "ORCL_1. open": "140.4500",
+        "ORCL_2. high": "142.2000",
+        "ORCL_3. low": "138.8300",
+        "ORCL_4. close": "139.5000",
+        "ORCL_5. volume": "6831174"
+    },
+    {
+        "ORCL_1. open": "140.3300",
+        "ORCL_2. high": "141.7200",
+        "ORCL_3. low": "140.0950",
+        "ORCL_4. close": "141.2900",
+        "ORCL_5. volume": "7980679"
+    },
+    {
+        "ORCL_1. open": "139.1400",
+        "ORCL_2. high": "141.1600",
+        "ORCL_3. low": "138.8500",
+        "ORCL_4. close": "139.4200",
+        "ORCL_5. volume": "4588361"
+    },
+    {
+        "ORCL_1. open": "138.8300",
+        "ORCL_2. high": "138.9500",
+        "ORCL_3. low": "136.9100",
+        "ORCL_4. close": "137.8800",
+        "ORCL_5. volume": "3022639"
+    },
+    {
+        "ORCL_1. open": "137.8500",
+        "ORCL_2. high": "139.5000",
+        "ORCL_3. low": "137.7400",
+        "ORCL_4. close": "138.4800",
+        "ORCL_5. volume": "3872342"
+    },
+    {
+        "ORCL_1. open": "139.3900",
+        "ORCL_2. high": "139.4000",
+        "ORCL_3. low": "138.1900",
+        "ORCL_4. close": "138.9000",
+        "ORCL_5. volume": "2729605"
+    },
+    {
+        "ORCL_1. open": "138.7300",
+        "ORCL_2. high": "139.7900",
+        "ORCL_3. low": "137.2600",
+        "ORCL_4. close": "139.1900",
+        "ORCL_5. volume": "4544571"
+    },
+    {
+        "ORCL_1. open": "140.7000",
+        "ORCL_2. high": "141.0800",
+        "ORCL_3. low": "137.6500",
+        "ORCL_4. close": "138.0800",
+        "ORCL_5. volume": "5162189"
+    },
+    {
+        "ORCL_1. open": "138.8000",
+        "ORCL_2. high": "140.3000",
+        "ORCL_3. low": "138.5500",
+        "ORCL_4. close": "140.2000",
+        "ORCL_5. volume": "3776768"
+    },
+    {
+        "ORCL_1. open": "137.8200",
+        "ORCL_2. high": "139.7900",
+        "ORCL_3. low": "137.8200",
+        "ORCL_4. close": "139.1700",
+        "ORCL_5. volume": "3738261"
+    },
+    {
+        "ORCL_1. open": "137.5300",
+        "ORCL_2. high": "137.9500",
+        "ORCL_3. low": "136.4550",
+        "ORCL_4. close": "137.9200",
+        "ORCL_5. volume": "3641585"
+    },
+    {
+        "ORCL_1. open": "136.7900",
+        "ORCL_2. high": "137.8200",
+        "ORCL_3. low": "136.3900",
+        "ORCL_4. close": "137.4700",
+        "ORCL_5. volume": "4893787"
+    },
+    {
+        "ORCL_1. open": "136.9300",
+        "ORCL_2. high": "137.2500",
+        "ORCL_3. low": "135.7200",
+        "ORCL_4. close": "136.9300",
+        "ORCL_5. volume": "4698128"
+    },
+    {
+        "ORCL_1. open": "134.0400",
+        "ORCL_2. high": "135.9700",
+        "ORCL_3. low": "134.0100",
+        "ORCL_4. close": "135.6000",
+        "ORCL_5. volume": "4044630"
+    },
+    {
+        "ORCL_1. open": "132.9700",
+        "ORCL_2. high": "134.5400",
+        "ORCL_3. low": "132.8100",
+        "ORCL_4. close": "134.2600",
+        "ORCL_5. volume": "4324038"
+    },
+    {
+        "ORCL_1. open": "132.2500",
+        "ORCL_2. high": "132.7100",
+        "ORCL_3. low": "131.2100",
+        "ORCL_4. close": "132.5800",
+        "ORCL_5. volume": "5600826"
+    },
+    {
+        "ORCL_1. open": "128.4000",
+        "ORCL_2. high": "132.3700",
+        "ORCL_3. low": "128.3400",
+        "ORCL_4. close": "132.0600",
+        "ORCL_5. volume": "5597278"
+    },
+    {
+        "ORCL_1. open": "128.0000",
+        "ORCL_2. high": "129.8200",
+        "ORCL_3. low": "127.6500",
+        "ORCL_4. close": "128.9600",
+        "ORCL_5. volume": "6243219"
+    },
+    {
+        "ORCL_1. open": "128.9200",
+        "ORCL_2. high": "130.3000",
+        "ORCL_3. low": "125.7500",
+        "ORCL_4. close": "125.9000",
+        "ORCL_5. volume": "8617652"
+    },
+    {
+        "ORCL_1. open": "130.5400",
+        "ORCL_2. high": "131.0375",
+        "ORCL_3. low": "128.0800",
+        "ORCL_4. close": "128.2100",
+        "ORCL_5. volume": "8373891"
+    },
+    {
+        "ORCL_1. open": "127.8900",
+        "ORCL_2. high": "129.9700",
+        "ORCL_3. low": "126.6639",
+        "ORCL_4. close": "127.8600",
+        "ORCL_5. volume": "10354987"
+    },
+    {
+        "ORCL_1. open": "132.7700",
+        "ORCL_2. high": "134.3000",
+        "ORCL_3. low": "131.8000",
+        "ORCL_4. close": "133.2800",
+        "ORCL_5. volume": "8251585"
+    },
+    {
+        "ORCL_1. open": "139.2900",
+        "ORCL_2. high": "140.3900",
+        "ORCL_3. low": "135.7700",
+        "ORCL_4. close": "137.5100",
+        "ORCL_5. volume": "5906808"
+    },
+    {
+        "ORCL_1. open": "139.6900",
+        "ORCL_2. high": "141.5500",
+        "ORCL_3. low": "138.6600",
+        "ORCL_4. close": "139.4500",
+        "ORCL_5. volume": "7188043"
+    },
+    {
+        "ORCL_1. open": "139.0700",
+        "ORCL_2. high": "139.5650",
+        "ORCL_3. low": "134.9600",
+        "ORCL_4. close": "135.6700",
+        "ORCL_5. volume": "6505701"
+    },
+    {
+        "ORCL_1. open": "139.2700",
+        "ORCL_2. high": "139.7800",
+        "ORCL_3. low": "137.8250",
+        "ORCL_4. close": "138.3100",
+        "ORCL_5. volume": "4054647"
+    },
+    {
+        "ORCL_1. open": "138.8700",
+        "ORCL_2. high": "139.9600",
+        "ORCL_3. low": "138.3800",
+        "ORCL_4. close": "139.0100",
+        "ORCL_5. volume": "5139377"
+    },
+    {
+        "ORCL_1. open": "140.1500",
+        "ORCL_2. high": "141.0700",
+        "ORCL_3. low": "137.7000",
+        "ORCL_4. close": "137.8200",
+        "ORCL_5. volume": "7654625"
+    },
+    {
+        "ORCL_1. open": "141.7000",
+        "ORCL_2. high": "142.6600",
+        "ORCL_3. low": "138.4000",
+        "ORCL_4. close": "138.7700",
+        "ORCL_5. volume": "8018807"
+    },
+    {
+        "ORCL_1. open": "141.3000",
+        "ORCL_2. high": "143.2200",
+        "ORCL_3. low": "141.2100",
+        "ORCL_4. close": "143.1100",
+        "ORCL_5. volume": "6697410"
+    },
+    {
+        "ORCL_1. open": "139.7400",
+        "ORCL_2. high": "140.6800",
+        "ORCL_3. low": "139.1200",
+        "ORCL_4. close": "140.1700",
+        "ORCL_5. volume": "5387176"
+    },
+    {
+        "ORCL_1. open": "138.3500",
+        "ORCL_2. high": "140.4400",
+        "ORCL_3. low": "138.0800",
+        "ORCL_4. close": "138.5600",
+        "ORCL_5. volume": "6111941"
+    },
+    {
+        "ORCL_1. open": "139.3600",
+        "ORCL_2. high": "140.0600",
+        "ORCL_3. low": "137.2020",
+        "ORCL_4. close": "138.0300",
+        "ORCL_5. volume": "5998726"
+    },
+    {
+        "ORCL_1. open": "140.4800",
+        "ORCL_2. high": "141.7900",
+        "ORCL_3. low": "138.6801",
+        "ORCL_4. close": "139.2600",
+        "ORCL_5. volume": "9157003"
+    },
+    {
+        "ORCL_1. open": "143.0700",
+        "ORCL_2. high": "143.5000",
+        "ORCL_3. low": "142.0500",
+        "ORCL_4. close": "142.6100",
+        "ORCL_5. volume": "7181470"
+    },
+    {
+        "ORCL_1. open": "145.7300",
+        "ORCL_2. high": "146.5900",
+        "ORCL_3. low": "141.9200",
+        "ORCL_4. close": "143.0700",
+        "ORCL_5. volume": "8687837"
+    },
+    {
+        "ORCL_1. open": "142.7100",
+        "ORCL_2. high": "145.1300",
+        "ORCL_3. low": "141.2600",
+        "ORCL_4. close": "144.7700",
+        "ORCL_5. volume": "7361770"
+    },
+    {
+        "ORCL_1. open": "142.3600",
+        "ORCL_2. high": "143.4800",
+        "ORCL_3. low": "141.6784",
+        "ORCL_4. close": "142.7600",
+        "ORCL_5. volume": "5246402"
+    },
+    {
+        "ORCL_1. open": "141.1200",
+        "ORCL_2. high": "142.3800",
+        "ORCL_3. low": "139.7350",
+        "ORCL_4. close": "142.0700",
+        "ORCL_5. volume": "6350258"
+    },
+    {
+        "ORCL_1. open": "145.1300",
+        "ORCL_2. high": "145.6999",
+        "ORCL_3. low": "138.0000",
+        "ORCL_4. close": "140.6800",
+        "ORCL_5. volume": "14340040"
+    },
+    {
+        "ORCL_1. open": "144.7600",
+        "ORCL_2. high": "145.2300",
+        "ORCL_3. low": "143.4300",
+        "ORCL_4. close": "145.0300",
+        "ORCL_5. volume": "8622633"
+    },
+    {
+        "ORCL_1. open": "144.9500",
+        "ORCL_2. high": "145.7850",
+        "ORCL_3. low": "144.0200",
+        "ORCL_4. close": "144.8300",
+        "ORCL_5. volume": "5365527"
+    },
+    {
+        "ORCL_1. open": "143.7500",
+        "ORCL_2. high": "144.6500",
+        "ORCL_3. low": "143.5000",
+        "ORCL_4. close": "144.3800",
+        "ORCL_5. volume": "3560778"
+    },
+    {
+        "ORCL_1. open": "142.6300",
+        "ORCL_2. high": "144.2200",
+        "ORCL_3. low": "142.5500",
+        "ORCL_4. close": "143.2800",
+        "ORCL_5. volume": "5920529"
+    },
+    {
+        "ORCL_1. open": "141.6900",
+        "ORCL_2. high": "144.0550",
+        "ORCL_3. low": "141.0700",
+        "ORCL_4. close": "143.0900",
+        "ORCL_5. volume": "6552353"
+    },
+    {
+        "ORCL_1. open": "139.4350",
+        "ORCL_2. high": "142.8200",
+        "ORCL_3. low": "139.2700",
+        "ORCL_4. close": "141.2000",
+        "ORCL_5. volume": "25814821"
+    },
+    {
+        "ORCL_1. open": "139.2500",
+        "ORCL_2. high": "141.4200",
+        "ORCL_3. low": "138.8100",
+        "ORCL_4. close": "140.1800",
+        "ORCL_5. volume": "7518199"
+    },
+    {
+        "ORCL_1. open": "139.4900",
+        "ORCL_2. high": "140.7450",
+        "ORCL_3. low": "138.0800",
+        "ORCL_4. close": "138.2300",
+        "ORCL_5. volume": "8036309"
+    },
+    {
+        "ORCL_1. open": "139.0000",
+        "ORCL_2. high": "139.5500",
+        "ORCL_3. low": "137.5600",
+        "ORCL_4. close": "139.1700",
+        "ORCL_5. volume": "8469641"
+    },
+    {
+        "ORCL_1. open": "140.0000",
+        "ORCL_2. high": "141.5300",
+        "ORCL_3. low": "139.1200",
+        "ORCL_4. close": "139.8900",
+        "ORCL_5. volume": "7793293"
+    },
+    {
+        "ORCL_1. open": "143.7200",
+        "ORCL_2. high": "143.7200",
+        "ORCL_3. low": "140.4400",
+        "ORCL_4. close": "141.5000",
+        "ORCL_5. volume": "14930875"
+    },
+    {
+        "ORCL_1. open": "145.3200",
+        "ORCL_2. high": "145.3200",
+        "ORCL_3. low": "141.9500",
+        "ORCL_4. close": "142.9100",
+        "ORCL_5. volume": "8940005"
+    },
+    {
+        "ORCL_1. open": "141.2200",
+        "ORCL_2. high": "145.0600",
+        "ORCL_3. low": "141.2200",
+        "ORCL_4. close": "144.6400",
+        "ORCL_5. volume": "11629395"
+    },
+    {
+        "ORCL_1. open": "138.8000",
+        "ORCL_2. high": "141.4400",
+        "ORCL_3. low": "138.2500",
+        "ORCL_4. close": "141.3100",
+        "ORCL_5. volume": "11232754"
+    },
+    {
+        "ORCL_1. open": "139.2600",
+        "ORCL_2. high": "139.9700",
+        "ORCL_3. low": "137.3800",
+        "ORCL_4. close": "138.1300",
+        "ORCL_5. volume": "11330789"
+    },
+    {
+        "ORCL_1. open": "140.4300",
+        "ORCL_2. high": "142.4000",
+        "ORCL_3. low": "138.7700",
+        "ORCL_4. close": "139.8500",
+        "ORCL_5. volume": "13733247"
+    },
+    {
+        "ORCL_1. open": "134.6900",
+        "ORCL_2. high": "140.9550",
+        "ORCL_3. low": "133.9600",
+        "ORCL_4. close": "140.3800",
+        "ORCL_5. volume": "40871317"
+    },
+    {
+        "ORCL_1. open": "124.0500",
+        "ORCL_2. high": "124.8300",
+        "ORCL_3. low": "122.2900",
+        "ORCL_4. close": "123.8800",
+        "ORCL_5. volume": "18373935"
+    },
+    {
+        "ORCL_1. open": "125.7300",
+        "ORCL_2. high": "126.9500",
+        "ORCL_3. low": "124.0500",
+        "ORCL_4. close": "124.5000",
+        "ORCL_5. volume": "10190447"
+    },
+    {
+        "ORCL_1. open": "124.2100",
+        "ORCL_2. high": "126.2200",
+        "ORCL_3. low": "123.2700",
+        "ORCL_4. close": "125.9200",
+        "ORCL_5. volume": "11544957"
+    },
+    {
+        "ORCL_1. open": "122.8800",
+        "ORCL_2. high": "124.2700",
+        "ORCL_3. low": "122.2500",
+        "ORCL_4. close": "123.5000",
+        "ORCL_5. volume": "7347249"
+    },
+    {
+        "ORCL_1. open": "121.6500",
+        "ORCL_2. high": "122.7900",
+        "ORCL_3. low": "120.5077",
+        "ORCL_4. close": "122.6300",
+        "ORCL_5. volume": "5973706"
+    },
+    {
+        "ORCL_1. open": "119.0200",
+        "ORCL_2. high": "120.3700",
+        "ORCL_3. low": "118.7200",
+        "ORCL_4. close": "120.0700",
+        "ORCL_5. volume": "7367975"
+    },
+    {
+        "ORCL_1. open": "117.5300",
+        "ORCL_2. high": "119.3300",
+        "ORCL_3. low": "117.3400",
+        "ORCL_4. close": "119.2800",
+        "ORCL_5. volume": "7256308"
+    },
+    {
+        "ORCL_1. open": "116.5900",
+        "ORCL_2. high": "117.4175",
+        "ORCL_3. low": "114.5500",
+        "ORCL_4. close": "117.1900",
+        "ORCL_5. volume": "12755639"
+    },
+    {
+        "ORCL_1. open": "120.1700",
+        "ORCL_2. high": "121.4400",
+        "ORCL_3. low": "117.0300",
+        "ORCL_4. close": "117.0900",
+        "ORCL_5. volume": "10851552"
+    },
+    {
+        "ORCL_1. open": "122.9900",
+        "ORCL_2. high": "123.9200",
+        "ORCL_3. low": "122.7700",
+        "ORCL_4. close": "123.7400",
+        "ORCL_5. volume": "4735091"
+    },
+    {
+        "ORCL_1. open": "123.2400",
+        "ORCL_2. high": "124.8200",
+        "ORCL_3. low": "123.0110",
+        "ORCL_4. close": "124.4900",
+        "ORCL_5. volume": "6911394"
+    },
+    {
+        "ORCL_1. open": "123.4200",
+        "ORCL_2. high": "123.5100",
+        "ORCL_3. low": "121.4200",
+        "ORCL_4. close": "122.9100",
+        "ORCL_5. volume": "7173435"
+    },
+    {
+        "ORCL_1. open": "126.5500",
+        "ORCL_2. high": "126.7000",
+        "ORCL_3. low": "123.1600",
+        "ORCL_4. close": "124.0900",
+        "ORCL_5. volume": "6108584"
+    },
+    {
+        "ORCL_1. open": "124.6300",
+        "ORCL_2. high": "125.1600",
+        "ORCL_3. low": "123.2950",
+        "ORCL_4. close": "124.6000",
+        "ORCL_5. volume": "5705042"
+    },
+    {
+        "ORCL_1. open": "124.4600",
+        "ORCL_2. high": "125.3600",
+        "ORCL_3. low": "123.9200",
+        "ORCL_4. close": "124.6300",
+        "ORCL_5. volume": "5549456"
+    },
+    {
+        "ORCL_1. open": "123.8000",
+        "ORCL_2. high": "124.6800",
+        "ORCL_3. low": "123.2400",
+        "ORCL_4. close": "124.5200",
+        "ORCL_5. volume": "5989022"
+    },
+    {
+        "ORCL_1. open": "123.1800",
+        "ORCL_2. high": "123.5800",
+        "ORCL_3. low": "122.0800",
+        "ORCL_4. close": "123.5000",
+        "ORCL_5. volume": "6179367"
+    },
+    {
+        "ORCL_1. open": "121.9400",
+        "ORCL_2. high": "122.4500",
+        "ORCL_3. low": "121.2100",
+        "ORCL_4. close": "122.1600",
+        "ORCL_5. volume": "5159256"
+    },
+    {
+        "ORCL_1. open": "120.1700",
+        "ORCL_2. high": "122.0900",
+        "ORCL_3. low": "119.6700",
+        "ORCL_4. close": "121.6300",
+        "ORCL_5. volume": "6604632"
+    },
+    {
+        "ORCL_1. open": "116.5000",
+        "ORCL_2. high": "122.5500",
+        "ORCL_3. low": "116.1300",
+        "ORCL_4. close": "120.8700",
+        "ORCL_5. volume": "17811221"
+    },
+    {
+        "ORCL_1. open": "117.1300",
+        "ORCL_2. high": "117.1900",
+        "ORCL_3. low": "116.1950",
+        "ORCL_4. close": "116.3700",
+        "ORCL_5. volume": "4139953"
+    },
+    {
+        "ORCL_1. open": "117.1500",
+        "ORCL_2. high": "117.6300",
+        "ORCL_3. low": "115.9100",
+        "ORCL_4. close": "116.6700",
+        "ORCL_5. volume": "4122531"
+    },
+    {
+        "ORCL_1. open": "117.3900",
+        "ORCL_2. high": "117.7256",
+        "ORCL_3. low": "116.5000",
+        "ORCL_4. close": "116.6400",
+        "ORCL_5. volume": "3236316"
+    }
+]

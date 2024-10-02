@@ -1,0 +1,702 @@
+[
+    {
+        "AVGO_1. open": "172.1600",
+        "AVGO_2. high": "172.2500",
+        "AVGO_3. low": "165.8000",
+        "AVGO_4. close": "167.4700",
+        "AVGO_5. volume": "23770416"
+    },
+    {
+        "AVGO_1. open": "171.8700",
+        "AVGO_2. high": "172.9200",
+        "AVGO_3. low": "169.6302",
+        "AVGO_4. close": "172.5000",
+        "AVGO_5. volume": "16900033"
+    },
+    {
+        "AVGO_1. open": "178.1700",
+        "AVGO_2. high": "178.4700",
+        "AVGO_3. low": "171.7600",
+        "AVGO_4. close": "172.6900",
+        "AVGO_5. volume": "20580905"
+    },
+    {
+        "AVGO_1. open": "178.5000",
+        "AVGO_2. high": "180.2500",
+        "AVGO_3. low": "175.0000",
+        "AVGO_4. close": "178.0900",
+        "AVGO_5. volume": "24339996"
+    },
+    {
+        "AVGO_1. open": "174.6500",
+        "AVGO_2. high": "177.1400",
+        "AVGO_3. low": "173.7600",
+        "AVGO_4. close": "175.5200",
+        "AVGO_5. volume": "16613795"
+    },
+    {
+        "AVGO_1. open": "172.8100",
+        "AVGO_2. high": "175.9900",
+        "AVGO_3. low": "171.6800",
+        "AVGO_4. close": "174.8400",
+        "AVGO_5. volume": "34223405"
+    },
+    {
+        "AVGO_1. open": "172.0000",
+        "AVGO_2. high": "173.3200",
+        "AVGO_3. low": "168.3501",
+        "AVGO_4. close": "172.9400",
+        "AVGO_5. volume": "29431112"
+    },
+    {
+        "AVGO_1. open": "167.1800",
+        "AVGO_2. high": "172.0200",
+        "AVGO_3. low": "166.4700",
+        "AVGO_4. close": "171.1000",
+        "AVGO_5. volume": "91758507"
+    },
+    {
+        "AVGO_1. open": "167.6800",
+        "AVGO_2. high": "170.0000",
+        "AVGO_3. low": "165.6600",
+        "AVGO_4. close": "167.4200",
+        "AVGO_5. volume": "32453057"
+    },
+    {
+        "AVGO_1. open": "163.7700",
+        "AVGO_2. high": "167.4700",
+        "AVGO_3. low": "161.3600",
+        "AVGO_4. close": "161.6700",
+        "AVGO_5. volume": "26557560"
+    },
+    {
+        "AVGO_1. open": "165.4900",
+        "AVGO_2. high": "166.0200",
+        "AVGO_3. low": "160.7000",
+        "AVGO_4. close": "162.4700",
+        "AVGO_5. volume": "19844343"
+    },
+    {
+        "AVGO_1. open": "165.1900",
+        "AVGO_2. high": "165.5000",
+        "AVGO_3. low": "160.4100",
+        "AVGO_4. close": "164.0200",
+        "AVGO_5. volume": "26126934"
+    },
+    {
+        "AVGO_1. open": "166.7350",
+        "AVGO_2. high": "168.0800",
+        "AVGO_3. low": "164.0401",
+        "AVGO_4. close": "167.6900",
+        "AVGO_5. volume": "29850048"
+    },
+    {
+        "AVGO_1. open": "158.1000",
+        "AVGO_2. high": "166.3200",
+        "AVGO_3. low": "156.8300",
+        "AVGO_4. close": "164.5600",
+        "AVGO_5. volume": "43581917"
+    },
+    {
+        "AVGO_1. open": "148.3900",
+        "AVGO_2. high": "158.8700",
+        "AVGO_3. low": "145.0400",
+        "AVGO_4. close": "158.2700",
+        "AVGO_5. volume": "39700766"
+    },
+    {
+        "AVGO_1. open": "141.2200",
+        "AVGO_2. high": "149.8600",
+        "AVGO_3. low": "141.0400",
+        "AVGO_4. close": "148.2100",
+        "AVGO_5. volume": "36067473"
+    },
+    {
+        "AVGO_1. open": "139.1100",
+        "AVGO_2. high": "141.5850",
+        "AVGO_3. low": "134.9000",
+        "AVGO_4. close": "140.8200",
+        "AVGO_5. volume": "39516691"
+    },
+    {
+        "AVGO_1. open": "143.2500",
+        "AVGO_2. high": "143.5000",
+        "AVGO_3. low": "136.6000",
+        "AVGO_4. close": "136.9950",
+        "AVGO_5. volume": "76634630"
+    },
+    {
+        "AVGO_1. open": "150.5650",
+        "AVGO_2. high": "156.3600",
+        "AVGO_3. low": "150.1100",
+        "AVGO_4. close": "152.8200",
+        "AVGO_5. volume": "31548537"
+    },
+    {
+        "AVGO_1. open": "150.3000",
+        "AVGO_2. high": "157.7900",
+        "AVGO_3. low": "149.1500",
+        "AVGO_4. close": "154.1200",
+        "AVGO_5. volume": "20099668"
+    },
+    {
+        "AVGO_1. open": "160.3800",
+        "AVGO_2. high": "160.7400",
+        "AVGO_3. low": "151.3800",
+        "AVGO_4. close": "152.7900",
+        "AVGO_5. volume": "37179061"
+    },
+    {
+        "AVGO_1. open": "161.1200",
+        "AVGO_2. high": "163.2400",
+        "AVGO_3. low": "158.7100",
+        "AVGO_4. close": "162.8200",
+        "AVGO_5. volume": "25158510"
+    },
+    {
+        "AVGO_1. open": "158.4900",
+        "AVGO_2. high": "163.2000",
+        "AVGO_3. low": "155.4100",
+        "AVGO_4. close": "156.9300",
+        "AVGO_5. volume": "23519286"
+    },
+    {
+        "AVGO_1. open": "160.0800",
+        "AVGO_2. high": "162.2800",
+        "AVGO_3. low": "156.2500",
+        "AVGO_4. close": "158.1800",
+        "AVGO_5. volume": "18063622"
+    },
+    {
+        "AVGO_1. open": "157.6000",
+        "AVGO_2. high": "162.0300",
+        "AVGO_3. low": "155.8300",
+        "AVGO_4. close": "161.3900",
+        "AVGO_5. volume": "16683106"
+    },
+    {
+        "AVGO_1. open": "164.9600",
+        "AVGO_2. high": "165.7000",
+        "AVGO_3. low": "158.6600",
+        "AVGO_4. close": "159.6200",
+        "AVGO_5. volume": "18521153"
+    },
+    {
+        "AVGO_1. open": "165.0250",
+        "AVGO_2. high": "168.2800",
+        "AVGO_3. low": "163.4600",
+        "AVGO_4. close": "166.3600",
+        "AVGO_5. volume": "18848022"
+    },
+    {
+        "AVGO_1. open": "170.8400",
+        "AVGO_2. high": "172.4200",
+        "AVGO_3. low": "161.4900",
+        "AVGO_4. close": "162.3400",
+        "AVGO_5. volume": "30044532"
+    },
+    {
+        "AVGO_1. open": "165.1200",
+        "AVGO_2. high": "166.4700",
+        "AVGO_3. low": "162.8800",
+        "AVGO_4. close": "165.7800",
+        "AVGO_5. volume": "16097693"
+    },
+    {
+        "AVGO_1. open": "167.0500",
+        "AVGO_2. high": "168.3699",
+        "AVGO_3. low": "164.1500",
+        "AVGO_4. close": "165.9500",
+        "AVGO_5. volume": "19417494"
+    },
+    {
+        "AVGO_1. open": "164.8600",
+        "AVGO_2. high": "167.8300",
+        "AVGO_3. low": "160.4200",
+        "AVGO_4. close": "167.7100",
+        "AVGO_5. volume": "20441691"
+    },
+    {
+        "AVGO_1. open": "164.4700",
+        "AVGO_2. high": "166.0900",
+        "AVGO_3. low": "162.6800",
+        "AVGO_4. close": "165.7200",
+        "AVGO_5. volume": "19296868"
+    },
+    {
+        "AVGO_1. open": "161.2000",
+        "AVGO_2. high": "166.6700",
+        "AVGO_3. low": "160.3351",
+        "AVGO_4. close": "166.1300",
+        "AVGO_5. volume": "27944968"
+    },
+    {
+        "AVGO_1. open": "158.0200",
+        "AVGO_2. high": "160.2500",
+        "AVGO_3. low": "154.7200",
+        "AVGO_4. close": "157.6900",
+        "AVGO_5. volume": "20184199"
+    },
+    {
+        "AVGO_1. open": "151.5500",
+        "AVGO_2. high": "156.3800",
+        "AVGO_3. low": "149.8100",
+        "AVGO_4. close": "156.1600",
+        "AVGO_5. volume": "22053604"
+    },
+    {
+        "AVGO_1. open": "148.0800",
+        "AVGO_2. high": "151.1300",
+        "AVGO_3. low": "146.3700",
+        "AVGO_4. close": "148.6200",
+        "AVGO_5. volume": "17778473"
+    },
+    {
+        "AVGO_1. open": "144.2000",
+        "AVGO_2. high": "149.5500",
+        "AVGO_3. low": "144.1100",
+        "AVGO_4. close": "148.2600",
+        "AVGO_5. volume": "18438655"
+    },
+    {
+        "AVGO_1. open": "141.2000",
+        "AVGO_2. high": "146.2700",
+        "AVGO_3. low": "138.4000",
+        "AVGO_4. close": "145.7400",
+        "AVGO_5. volume": "27583199"
+    },
+    {
+        "AVGO_1. open": "148.2500",
+        "AVGO_2. high": "150.1000",
+        "AVGO_3. low": "135.8300",
+        "AVGO_4. close": "136.2700",
+        "AVGO_5. volume": "29749755"
+    },
+    {
+        "AVGO_1. open": "141.7300",
+        "AVGO_2. high": "148.9100",
+        "AVGO_3. low": "140.2500",
+        "AVGO_4. close": "143.9200",
+        "AVGO_5. volume": "24751290"
+    },
+    {
+        "AVGO_1. open": "129.6100",
+        "AVGO_2. high": "145.4200",
+        "AVGO_3. low": "128.5000",
+        "AVGO_4. close": "142.0800",
+        "AVGO_5. volume": "41309257"
+    },
+    {
+        "AVGO_1. open": "141.9250",
+        "AVGO_2. high": "145.3500",
+        "AVGO_3. low": "139.6000",
+        "AVGO_4. close": "143.8200",
+        "AVGO_5. volume": "33745843"
+    },
+    {
+        "AVGO_1. open": "157.5000",
+        "AVGO_2. high": "158.9100",
+        "AVGO_3. low": "146.1700",
+        "AVGO_4. close": "147.0200",
+        "AVGO_5. volume": "40319955"
+    },
+    {
+        "AVGO_1. open": "151.4700",
+        "AVGO_2. high": "161.3300",
+        "AVGO_3. low": "151.0000",
+        "AVGO_4. close": "160.6800",
+        "AVGO_5. volume": "45827511"
+    },
+    {
+        "AVGO_1. open": "153.2800",
+        "AVGO_2. high": "153.4700",
+        "AVGO_3. low": "143.3500",
+        "AVGO_4. close": "143.5200",
+        "AVGO_5. volume": "31102341"
+    },
+    {
+        "AVGO_1. open": "152.0200",
+        "AVGO_2. high": "155.0000",
+        "AVGO_3. low": "149.1500",
+        "AVGO_4. close": "150.2200",
+        "AVGO_5. volume": "16625762"
+    },
+    {
+        "AVGO_1. open": "153.5000",
+        "AVGO_2. high": "153.5800",
+        "AVGO_3. low": "149.9202",
+        "AVGO_4. close": "151.6300",
+        "AVGO_5. volume": "20839871"
+    },
+    {
+        "AVGO_1. open": "151.2600",
+        "AVGO_2. high": "153.5500",
+        "AVGO_3. low": "145.5200",
+        "AVGO_4. close": "149.2600",
+        "AVGO_5. volume": "30872127"
+    },
+    {
+        "AVGO_1. open": "160.3550",
+        "AVGO_2. high": "161.4050",
+        "AVGO_3. low": "151.1000",
+        "AVGO_4. close": "151.3400",
+        "AVGO_5. volume": "37162620"
+    },
+    {
+        "AVGO_1. open": "160.3950",
+        "AVGO_2. high": "165.3300",
+        "AVGO_3. low": "159.9000",
+        "AVGO_4. close": "163.7700",
+        "AVGO_5. volume": "21570177"
+    },
+    {
+        "AVGO_1. open": "160.2300",
+        "AVGO_2. high": "162.9900",
+        "AVGO_3. low": "157.9000",
+        "AVGO_4. close": "161.0600",
+        "AVGO_5. volume": "28813334"
+    },
+    {
+        "AVGO_1. open": "161.8400",
+        "AVGO_2. high": "163.9500",
+        "AVGO_3. low": "157.1200",
+        "AVGO_4. close": "157.3500",
+        "AVGO_5. volume": "26309545"
+    },
+    {
+        "AVGO_1. open": "158.8900",
+        "AVGO_2. high": "161.5100",
+        "AVGO_3. low": "153.9000",
+        "AVGO_4. close": "160.5200",
+        "AVGO_5. volume": "37973498"
+    },
+    {
+        "AVGO_1. open": "162.3100",
+        "AVGO_2. high": "162.8400",
+        "AVGO_3. low": "155.6100",
+        "AVGO_4. close": "155.9800",
+        "AVGO_5. volume": "43343355"
+    },
+    {
+        "AVGO_1. open": "172.4000",
+        "AVGO_2. high": "172.8100",
+        "AVGO_3. low": "166.4000",
+        "AVGO_4. close": "169.3750",
+        "AVGO_5. volume": "22244943"
+    },
+    {
+        "AVGO_1. open": "170.0000",
+        "AVGO_2. high": "173.5099",
+        "AVGO_3. low": "169.2600",
+        "AVGO_4. close": "171.4200",
+        "AVGO_5. volume": "22868335"
+    },
+    {
+        "AVGO_1. open": "1711.0300",
+        "AVGO_2. high": "1725.9100",
+        "AVGO_3. low": "1691.3100",
+        "AVGO_4. close": "1700.6700",
+        "AVGO_5. volume": "3045300"
+    },
+    {
+        "AVGO_1. open": "1764.6600",
+        "AVGO_2. high": "1764.8700",
+        "AVGO_3. low": "1668.5000",
+        "AVGO_4. close": "1705.9500",
+        "AVGO_5. volume": "5111168"
+    },
+    {
+        "AVGO_1. open": "1746.0000",
+        "AVGO_2. high": "1766.4899",
+        "AVGO_3. low": "1726.3628",
+        "AVGO_4. close": "1744.6900",
+        "AVGO_5. volume": "4107420"
+    },
+    {
+        "AVGO_1. open": "1756.5600",
+        "AVGO_2. high": "1770.9800",
+        "AVGO_3. low": "1705.5600",
+        "AVGO_4. close": "1733.3100",
+        "AVGO_5. volume": "3791621"
+    },
+    {
+        "AVGO_1. open": "1705.0000",
+        "AVGO_2. high": "1756.8999",
+        "AVGO_3. low": "1705.0000",
+        "AVGO_4. close": "1745.8600",
+        "AVGO_5. volume": "3639846"
+    },
+    {
+        "AVGO_1. open": "1755.5600",
+        "AVGO_2. high": "1765.4700",
+        "AVGO_3. low": "1696.0001",
+        "AVGO_4. close": "1703.3100",
+        "AVGO_5. volume": "4524048"
+    },
+    {
+        "AVGO_1. open": "1670.0000",
+        "AVGO_2. high": "1729.2200",
+        "AVGO_3. low": "1664.4600",
+        "AVGO_4. close": "1729.2200",
+        "AVGO_5. volume": "3995382"
+    },
+    {
+        "AVGO_1. open": "1640.8000",
+        "AVGO_2. high": "1659.1999",
+        "AVGO_3. low": "1622.0000",
+        "AVGO_4. close": "1657.4800",
+        "AVGO_5. volume": "3253884"
+    },
+    {
+        "AVGO_1. open": "1608.2000",
+        "AVGO_2. high": "1648.7500",
+        "AVGO_3. low": "1593.5000",
+        "AVGO_4. close": "1640.8000",
+        "AVGO_5. volume": "4762344"
+    },
+    {
+        "AVGO_1. open": "1595.8800",
+        "AVGO_2. high": "1639.2300",
+        "AVGO_3. low": "1586.0000",
+        "AVGO_4. close": "1605.5300",
+        "AVGO_5. volume": "6937663"
+    },
+    {
+        "AVGO_1. open": "1592.0000",
+        "AVGO_2. high": "1605.6200",
+        "AVGO_3. low": "1571.0000",
+        "AVGO_4. close": "1586.6600",
+        "AVGO_5. volume": "3164906"
+    },
+    {
+        "AVGO_1. open": "1597.6200",
+        "AVGO_2. high": "1618.1800",
+        "AVGO_3. low": "1573.5900",
+        "AVGO_4. close": "1592.0000",
+        "AVGO_5. volume": "4647875"
+    },
+    {
+        "AVGO_1. open": "1600.1300",
+        "AVGO_2. high": "1606.0400",
+        "AVGO_3. low": "1564.0000",
+        "AVGO_4. close": "1580.7900",
+        "AVGO_5. volume": "5681045"
+    },
+    {
+        "AVGO_1. open": "1642.0500",
+        "AVGO_2. high": "1661.0000",
+        "AVGO_3. low": "1590.6600",
+        "AVGO_4. close": "1592.2100",
+        "AVGO_5. volume": "5857538"
+    },
+    {
+        "AVGO_1. open": "1695.6600",
+        "AVGO_2. high": "1713.9990",
+        "AVGO_3. low": "1651.4200",
+        "AVGO_4. close": "1658.6300",
+        "AVGO_5. volume": "9999861"
+    },
+    {
+        "AVGO_1. open": "1803.4600",
+        "AVGO_2. high": "1804.7500",
+        "AVGO_3. low": "1722.2201",
+        "AVGO_4. close": "1734.5600",
+        "AVGO_5. volume": "6815662"
+    },
+    {
+        "AVGO_1. open": "1839.5900",
+        "AVGO_2. high": "1851.6200",
+        "AVGO_3. low": "1785.0100",
+        "AVGO_4. close": "1802.5200",
+        "AVGO_5. volume": "8679674"
+    },
+    {
+        "AVGO_1. open": "1800.0000",
+        "AVGO_2. high": "1843.0000",
+        "AVGO_3. low": "1778.5800",
+        "AVGO_4. close": "1828.8700",
+        "AVGO_5. volume": "8752762"
+    },
+    {
+        "AVGO_1. open": "1686.8600",
+        "AVGO_2. high": "1747.2400",
+        "AVGO_3. low": "1682.1000",
+        "AVGO_4. close": "1735.0400",
+        "AVGO_5. volume": "6970471"
+    },
+    {
+        "AVGO_1. open": "1710.0000",
+        "AVGO_2. high": "1735.8500",
+        "AVGO_3. low": "1652.5200",
+        "AVGO_4. close": "1678.9900",
+        "AVGO_5. volume": "8906065"
+    },
+    {
+        "AVGO_1. open": "1500.0000",
+        "AVGO_2. high": "1505.8000",
+        "AVGO_3. low": "1476.4000",
+        "AVGO_4. close": "1495.5100",
+        "AVGO_5. volume": "5669737"
+    },
+    {
+        "AVGO_1. open": "1438.2000",
+        "AVGO_2. high": "1465.0100",
+        "AVGO_3. low": "1416.2300",
+        "AVGO_4. close": "1461.0300",
+        "AVGO_5. volume": "3484432"
+    },
+    {
+        "AVGO_1. open": "1409.8000",
+        "AVGO_2. high": "1449.0499",
+        "AVGO_3. low": "1409.1250",
+        "AVGO_4. close": "1440.4700",
+        "AVGO_5. volume": "3108171"
+    },
+    {
+        "AVGO_1. open": "1407.7750",
+        "AVGO_2. high": "1425.0000",
+        "AVGO_3. low": "1397.0200",
+        "AVGO_4. close": "1406.6400",
+        "AVGO_5. volume": "1785903"
+    },
+    {
+        "AVGO_1. open": "1421.8700",
+        "AVGO_2. high": "1422.6899",
+        "AVGO_3. low": "1388.2401",
+        "AVGO_4. close": "1401.2700",
+        "AVGO_5. volume": "2017181"
+    },
+    {
+        "AVGO_1. open": "1346.0000",
+        "AVGO_2. high": "1414.3500",
+        "AVGO_3. low": "1340.5400",
+        "AVGO_4. close": "1413.0900",
+        "AVGO_5. volume": "3294656"
+    },
+    {
+        "AVGO_1. open": "1320.4000",
+        "AVGO_2. high": "1331.9900",
+        "AVGO_3. low": "1307.0100",
+        "AVGO_4. close": "1330.8200",
+        "AVGO_5. volume": "2304814"
+    },
+    {
+        "AVGO_1. open": "1352.7000",
+        "AVGO_2. high": "1353.0000",
+        "AVGO_3. low": "1302.5300",
+        "AVGO_4. close": "1321.9000",
+        "AVGO_5. volume": "2627847"
+    },
+    {
+        "AVGO_1. open": "1361.3600",
+        "AVGO_2. high": "1362.5500",
+        "AVGO_3. low": "1307.2600",
+        "AVGO_4. close": "1328.5500",
+        "AVGO_5. volume": "7309132"
+    },
+    {
+        "AVGO_1. open": "1379.0000",
+        "AVGO_2. high": "1382.7800",
+        "AVGO_3. low": "1355.6399",
+        "AVGO_4. close": "1364.0800",
+        "AVGO_5. volume": "2172828"
+    },
+    {
+        "AVGO_1. open": "1399.1000",
+        "AVGO_2. high": "1399.1000",
+        "AVGO_3. low": "1383.0000",
+        "AVGO_4. close": "1390.6700",
+        "AVGO_5. volume": "2686055"
+    },
+    {
+        "AVGO_1. open": "1410.0000",
+        "AVGO_2. high": "1417.1813",
+        "AVGO_3. low": "1392.5400",
+        "AVGO_4. close": "1412.4500",
+        "AVGO_5. volume": "2291886"
+    },
+    {
+        "AVGO_1. open": "1399.7900",
+        "AVGO_2. high": "1413.5844",
+        "AVGO_3. low": "1392.0242",
+        "AVGO_4. close": "1407.8400",
+        "AVGO_5. volume": "1672996"
+    },
+    {
+        "AVGO_1. open": "1428.4300",
+        "AVGO_2. high": "1429.0000",
+        "AVGO_3. low": "1378.0000",
+        "AVGO_4. close": "1393.2900",
+        "AVGO_5. volume": "3103899"
+    },
+    {
+        "AVGO_1. open": "1396.0100",
+        "AVGO_2. high": "1405.0000",
+        "AVGO_3. low": "1384.2200",
+        "AVGO_4. close": "1392.2400",
+        "AVGO_5. volume": "2100212"
+    },
+    {
+        "AVGO_1. open": "1398.6800",
+        "AVGO_2. high": "1409.3900",
+        "AVGO_3. low": "1393.4600",
+        "AVGO_4. close": "1399.2000",
+        "AVGO_5. volume": "1533251"
+    },
+    {
+        "AVGO_1. open": "1396.0000",
+        "AVGO_2. high": "1416.9400",
+        "AVGO_3. low": "1393.1600",
+        "AVGO_4. close": "1414.0300",
+        "AVGO_5. volume": "2716995"
+    },
+    {
+        "AVGO_1. open": "1412.4200",
+        "AVGO_2. high": "1419.5300",
+        "AVGO_3. low": "1381.7800",
+        "AVGO_4. close": "1395.2900",
+        "AVGO_5. volume": "1817367"
+    },
+    {
+        "AVGO_1. open": "1426.0000",
+        "AVGO_2. high": "1445.4000",
+        "AVGO_3. low": "1405.0600",
+        "AVGO_4. close": "1412.1300",
+        "AVGO_5. volume": "2839503"
+    },
+    {
+        "AVGO_1. open": "1380.0000",
+        "AVGO_2. high": "1438.9500",
+        "AVGO_3. low": "1369.9750",
+        "AVGO_4. close": "1436.1700",
+        "AVGO_5. volume": "3275738"
+    },
+    {
+        "AVGO_1. open": "1332.3400",
+        "AVGO_2. high": "1381.9900",
+        "AVGO_3. low": "1325.8000",
+        "AVGO_4. close": "1380.0300",
+        "AVGO_5. volume": "1942029"
+    },
+    {
+        "AVGO_1. open": "1348.0000",
+        "AVGO_2. high": "1358.3900",
+        "AVGO_3. low": "1330.1100",
+        "AVGO_4. close": "1337.5100",
+        "AVGO_5. volume": "1850703"
+    },
+    {
+        "AVGO_1. open": "1315.3100",
+        "AVGO_2. high": "1344.0000",
+        "AVGO_3. low": "1315.3100",
+        "AVGO_4. close": "1332.8000",
+        "AVGO_5. volume": "1629953"
+    },
+    {
+        "AVGO_1. open": "1317.8300",
+        "AVGO_2. high": "1321.6100",
+        "AVGO_3. low": "1302.0000",
+        "AVGO_4. close": "1305.6700",
+        "AVGO_5. volume": "1216955"
+    }
+]
