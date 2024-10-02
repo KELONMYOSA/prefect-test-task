@@ -23,4 +23,4 @@ sudo docker compose up -d
 
 # Демо
 
-![Prefect task demo](assets/Prefect_demo.mp4)
+https://github.com/user-attachments/assets/78cc777f-8673-4e8e-9e11-b1d8cc58e513
